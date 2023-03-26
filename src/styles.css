@@ -8,12 +8,16 @@ body {
 }
 
 body {
-  background: #eee;
+  background: #FFFEFE;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #000;
   margin: 0;
   padding: 0;
+}
+
+.mySwiper{
+  background-color: red;
 }
 
 .swiper {
@@ -24,19 +28,25 @@ body {
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: #fff;
+  background: rgb(255, 255, 255);
 
   /* Center slide text vertically */
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 200px;
+}
+
+.cardProductSwiper > .swiper-wrapper > .swiper-slide{
   height: 400px;
 }
 
 .swiper-slide img {
   display: block;
-  width: 100%;
+  /* width: 100%; */
   height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
 }
 
 .header{

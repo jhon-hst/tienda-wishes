@@ -11,6 +11,7 @@ import "./styles.css";
 // import required modules
 import { Pagination, Navigation } from "swiper";
 import CardProduct from "./components/cardProduct";
+import testImg from "./assets/test.webp";
 
 export default function App() {
   return (
@@ -24,41 +25,41 @@ export default function App() {
           expedita, cum quidem. Dolore.
         </p>
         <Swiper
-          slidesPerView={window.innerWidth > 1000 ? 3 : 1}
+          slidesPerView={window.innerWidth > 1000 ? 5 : 1}
           spaceBetween={30}
           pagination={{
             type: "fraction",
           }}
           navigation={true}
           modules={[Pagination, Navigation]}
-          className="mySwiper"
+          className="headerSwiper"
         >
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="https://picsum.photos/200/300" />
+            <img src={testImg} />
           </SwiperSlide>
         </Swiper>
       </div>

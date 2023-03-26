@@ -3,6 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 // import required modules
 import { Pagination, Navigation } from "swiper";
+import testImg from "../assets/test.webp";
 
 export default function CardProduct() {
   return (
@@ -36,61 +37,31 @@ export default function CardProduct() {
                 }}
                 navigation={true}
                 modules={[Pagination, Navigation]}
-                className="mySwiper"
+                className="cardProductSwiper"
               >
-                <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                <SwiperSlide className="swiper-slide-product">
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    className="productImage"
-                    src="https://picsum.photos/200/300"
-                  />
+                  <img src={testImg} />
                 </SwiperSlide>
               </Swiper>
             </div>
