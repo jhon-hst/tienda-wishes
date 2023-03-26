@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jhon-hst.github.io/tienda-wishes",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
