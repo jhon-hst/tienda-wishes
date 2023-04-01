@@ -34,7 +34,21 @@
                     "type": "image",
                     "key": 4
                 }
-            }
+            },
+            {
+                "title": "verde",
+                "icon": {
+                    "type": "image",
+                    "key": 4
+                }
+            },
+            {
+                "title": "verde",
+                "icon": {
+                    "type": "image",
+                    "key": 4
+                }
+            },
         ]
     },
     {
