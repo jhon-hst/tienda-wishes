@@ -11,11 +11,11 @@ import "./styles.css";
 // import required modules
 import { Pagination, Navigation } from "swiper";
 import CardProduct from "./components/cardProduct";
-import testImg from "./assets/test.webp";
+import testImg from "./assets/images/IMG_20230304_165900.jpg";
 
 export default function App() {
   return (
-    <main className="container">
+    <main className="container pb-5">
       <div className="header">
         <h1>Gram remate de productos</h1>
         <p>

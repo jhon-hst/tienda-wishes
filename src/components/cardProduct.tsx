@@ -4,11 +4,13 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // import required modules
 import { Pagination, Navigation } from "swiper";
 import testImg from "../assets/test.webp";
+import Products from "../assets/data/products.json";
+import Images from "../assets/images";
 
 export default function CardProduct() {
   return (
     <>
-      {[0, 1, 2, 3, 4, 5].map((_, index) => {
+      {Products.map((product, index) => {
         return (
           <section key={index} className="row sectionProduct">
             <div
@@ -16,13 +18,8 @@ export default function CardProduct() {
                 index % 2 === 0 && window.innerWidth > 1000 ? "1" : "2"
               }`}
             >
-              <h2>Title del producto</h2>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Excepturi, asperiores laboriosam consequuntur laborum
-                consectetur quibusdam officiis saepe optio fuga autem placeat
-                sed cum reprehenderit illum ut animi eaque hic suscipit!
-              </p>
+              <h2>{product.title}</h2>
+              <p>{product.description}</p>
             </div>
             <div
               className={`col-12 col-lg-6 order-${
@@ -39,30 +36,28 @@ export default function CardProduct() {
                 modules={[Pagination, Navigation]}
                 className="cardProductSwiper"
               >
-                <SwiperSlide className="swiper-slide-product">
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img src={testImg} />
-                </SwiperSlide>
+                {product.media.map((media, index) => (
+                  <SwiperSlide key={index} className="swiper-slide-product">
+                    {media.type === "image" && (
+                      <img
+                        src={media.localImage ? Images[media.url] : media.url}
+                      />
+                    )}
+                    {media.type === "video" && !media.youtube && (
+                      <video controls src={media.url} />
+                    )}
+                    {media.type === "video" && media.youtube && (
+                      <iframe
+                        width="560"
+                        height="315"
+                        src={media.url}
+                        title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowFullScreen
+                      ></iframe>
+                    )}
+                  </SwiperSlide>
+                ))}
               </Swiper>
             </div>
           </section>

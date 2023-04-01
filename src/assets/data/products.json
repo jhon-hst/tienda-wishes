@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Maripoza",
+        "description": "Juego de pegatinas de espejo para pared, calcomanía de mariposas con efecto 3D, decoración artística para fiesta, boda, decoración para el hogar, nevera, 12 unids/set",
+        "media": [
+            {
+                "type": "video",
+                "key": 1,
+                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
+            },
+            {
+                "youtube": true,
+                "type": "video",
+                "key": 2,
+                "url": "https://www.youtube.com/embed/4zTHzoq20Jg"
+            },
+            {
+                "type": "image",
+                "key": 3,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7167550349984082_6270350368604035819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEIkZpZU6XJzHBNJBQqSm4xhhyOEC49R9GGHI4QLj1H0eutEFYppPTxsU9PkpzTQ0L7ofH7LdLdF2d3s6bA6xWc&_nc_ohc=X__-3IQFQZUAX9T8Sw6&_nc_oc=AQmF83Br3BY5Jr5zcZrekR_wGtwjTpBAtQSbFD-7XmtCz6gP7NB53-e1M3wD4YWOPLE&_nc_ht=scontent.fbga3-1.fna&oh=00_AfBaddySSDT4mpEnN9mXvRCDkd8WKGBV-AHU_46NYLgJCA&oe=642DB775"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "maripoza1"
+            }
+            
+        ],
+        "variations":[
+            {
+                "title": "verde",
+                "icon": {
+                    "type": "image",
+                    "key": 4
+                }
+            }
+        ]
+    },
+    {
+        "title": "Maripoza2",
+        "description": "Juego de pegatinas de espejo para pared, calcomanía de mariposas con efecto 3D, decoración artística para fiesta, boda, decoración para el hogar, nevera, 12 unids/set",
+        "media": [
+            {
+                "type": "video",
+                "key": 1,
+                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
+            },
+            {
+                "youtube": true,
+                "type": "video",
+                "key": 2,
+                "url": "https://www.youtube.com/embed/4zTHzoq20Jg"
+            },
+            {
+                "type": "image",
+                "key": 3,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7167550349984082_6270350368604035819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEIkZpZU6XJzHBNJBQqSm4xhhyOEC49R9GGHI4QLj1H0eutEFYppPTxsU9PkpzTQ0L7ofH7LdLdF2d3s6bA6xWc&_nc_ohc=X__-3IQFQZUAX9T8Sw6&_nc_oc=AQmF83Br3BY5Jr5zcZrekR_wGtwjTpBAtQSbFD-7XmtCz6gP7NB53-e1M3wD4YWOPLE&_nc_ht=scontent.fbga3-1.fna&oh=00_AfBaddySSDT4mpEnN9mXvRCDkd8WKGBV-AHU_46NYLgJCA&oe=642DB775"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "maripoza1"
+            }
+            
+        ]
+    }
+]

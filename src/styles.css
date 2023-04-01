@@ -48,6 +48,13 @@ body {
   border-radius: 8px;
   box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
 }
+.swiper-slide video {
+  display: block;
+  /* width: 100%; */
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
+}
 
 .header{
   margin-bottom: 100px;
