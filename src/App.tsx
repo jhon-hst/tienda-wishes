@@ -1,17 +1,14 @@
-// Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Pagination, Navigation } from "swiper";
 
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-
 import "./styles.css";
 
-// import required modules
-import { Pagination, Navigation } from "swiper";
-import CardProduct from "./components/cardProduct";
 import testImg from "./assets/images/IMG_20230304_165900.jpg";
+import Product from "./components/Products";
 
 export default function App() {
   return (
@@ -63,7 +60,7 @@ export default function App() {
           </SwiperSlide>
         </Swiper>
       </div>
-      <CardProduct />
+      <Product />
     </main>
   );
 }

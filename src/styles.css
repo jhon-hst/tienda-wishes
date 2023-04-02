@@ -63,3 +63,13 @@ body {
 .sectionProduct{
   margin-bottom: 40px;
 }
+
+.img-variation{
+  height: 40px;
+  width: 40px;
+}
+
+.color-variation{
+  height: 40px;
+  width: 40px;
+}

@@ -1,68 +1,110 @@
-// Import Swiper React components
+import { useRef, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
+import type { Swiper as SwiperType } from "swiper";
 
-// import required modules
 import { Pagination, Navigation } from "swiper";
-import testImg from "../assets/test.webp";
-import Products from "../assets/data/products.json";
 import Images from "../assets/images";
+import { MediaType, ProductType } from "../types";
 
-export default function CardProduct() {
+export default function CardProduct({
+  product,
+  index,
+}: {
+  product: ProductType;
+  index: number;
+}) {
+  const swiperRef = useRef();
+  const [swiperInstance, setSwiperInstance] = useState<SwiperType | null>(null);
+
+  const getImageToVariation = (product: ProductType, key: number) => {
+    const media = product.media.find((item) => item.key === key);
+    return media ?? null;
+  };
+
+  const slideImageTo = (media: MediaType) => {
+    const getIndex = product.media.findIndex((item) => item.key === media.key);
+    swiperInstance?.slideTo(getIndex);
+  };
+
   return (
-    <>
-      {Products.map((product, index) => {
-        return (
-          <section key={index} className="row sectionProduct">
-            <div
-              className={`col-12 col-lg-6 order-${
-                index % 2 === 0 && window.innerWidth > 1000 ? "1" : "2"
-              }`}
-            >
-              <h2>{product.title}</h2>
-              <p>{product.description}</p>
-            </div>
-            <div
-              className={`col-12 col-lg-6 order-${
-                index % 2 !== 0 && window.innerWidth > 1000 ? "1" : "2"
-              }`}
-            >
-              <Swiper
-                slidesPerView={1}
-                spaceBetween={30}
-                pagination={{
-                  type: "fraction",
-                }}
-                navigation={true}
-                modules={[Pagination, Navigation]}
-                className="cardProductSwiper"
-              >
-                {product.media.map((media, index) => (
-                  <SwiperSlide key={index} className="swiper-slide-product">
-                    {media.type === "image" && (
+    <section className="row sectionProduct">
+      <div
+        className={`col-12 col-lg-5 order-${
+          index % 2 === 0 && window.innerWidth > 1000 ? "1" : "3"
+        }`}
+      >
+        <h2>{product.title}</h2>
+        <p>{product.description}</p>
+      </div>
+      <div
+        className={`col-12 col-lg-1 order-${
+          window.innerWidth > 1000 ? "2" : "3"
+        }`}
+      >
+        {product.variations &&
+          product.variations.map((variation, i) => {
+            const media = getImageToVariation(product, variation.icon.key);
+            return (
+              <>
+                {media && (
+                  <div onClick={() => slideImageTo(media)}>
+                    {variation.icon.type === "image" && (
                       <img
+                        className="img-variation"
+                        key={i}
                         src={media.localImage ? Images[media.url] : media.url}
                       />
                     )}
-                    {media.type === "video" && !media.youtube && (
-                      <video controls src={media.url} />
+                    {variation.icon.type === "color" && (
+                      <div
+                        className="color-variation"
+                        style={{ backgroundColor: variation.icon.color }}
+                      />
                     )}
-                    {media.type === "video" && media.youtube && (
-                      <iframe
-                        width="560"
-                        height="315"
-                        src={media.url}
-                        title="YouTube video player"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowFullScreen
-                      ></iframe>
-                    )}
-                  </SwiperSlide>
-                ))}
-              </Swiper>
-            </div>
-          </section>
-        );
-      })}
-    </>
+                  </div>
+                )}
+              </>
+            );
+          })}
+      </div>
+      <div
+        className={`col-12 col-lg-5 order-${
+          index % 2 !== 0 && window.innerWidth > 1000 ? "1" : "3"
+        }`}
+      >
+        <Swiper
+          onSwiper={(sw) => setSwiperInstance(sw)}
+          slidesPerView={1}
+          spaceBetween={30}
+          pagination={{
+            type: "fraction",
+          }}
+          navigation={true}
+          modules={[Pagination, Navigation]}
+          className="cardProductSwiper"
+        >
+          {product.media.map((media, ind) => (
+            <SwiperSlide key={ind} className="swiper-slide-product">
+              {media.type === "image" && (
+                <img src={media.localImage ? Images[media.url] : media.url} />
+              )}
+              {media.type === "video" && !media.youtube && (
+                <video controls src={media.url} />
+              )}
+              {media.type === "video" && media.youtube && (
+                <iframe
+                  width="560"
+                  height="315"
+                  src={media.url}
+                  title="YouTube video player"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                ></iframe>
+              )}
+            </SwiperSlide>
+          ))}
+        </Swiper>
+      </div>
+    </section>
   );
 }
