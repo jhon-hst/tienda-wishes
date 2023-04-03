@@ -62,6 +62,9 @@ body {
 
 .sectionProduct{
   margin-bottom: 40px;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
+ padding: 20px;
 }
 
 .img-variation{

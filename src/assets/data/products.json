@@ -1,53 +1,303 @@
 [
     {
-        "title": "Maripoza",
-        "description": "Juego de pegatinas de espejo para pared, calcomanía de mariposas con efecto 3D, decoración artística para fiesta, boda, decoración para el hogar, nevera, 12 unids/set",
+        "title": "Mariposas efecto 3D, con adhesivo para pared 🦋✨ ",
+        "description": "<p>Perfectas para decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
+        "priceCost": 4400,
+        "salePrice": 10000,
+        "stock": null,
+        "sku": "sku-1",
         "media": [
-            {
-                "type": "video",
-                "key": 1,
-                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
-            },
             {
                 "youtube": true,
                 "type": "video",
-                "key": 2,
+                "key": 1,
                 "url": "https://www.youtube.com/embed/4zTHzoq20Jg"
             },
             {
+                "type": "video",
+                "key": 2,
+                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
+            },
+            {
+                "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7167550349984082_6270350368604035819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEIkZpZU6XJzHBNJBQqSm4xhhyOEC49R9GGHI4QLj1H0eutEFYppPTxsU9PkpzTQ0L7ofH7LdLdF2d3s6bA6xWc&_nc_ohc=X__-3IQFQZUAX9T8Sw6&_nc_oc=AQmF83Br3BY5Jr5zcZrekR_wGtwjTpBAtQSbFD-7XmtCz6gP7NB53-e1M3wD4YWOPLE&_nc_ht=scontent.fbga3-1.fna&oh=00_AfBaddySSDT4mpEnN9mXvRCDkd8WKGBV-AHU_46NYLgJCA&oe=642DB775"
+                "url": "sku1A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "maripoza1"
-            }
-            
-        ],
-        "variations":[
+                "url": "sku1A1A2"
+            },
             {
-                "title": "verde",
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A2A1"
+            },
+            {
+                "localImage": false,
+                "type": "image",
+                "key": 5,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277916916_3469477506509380_4221408628562753929_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGJgWCkI7p4diihsbC_6SjpWjNTl1__9ttaM1OXX__2273-t2IA1639rcFURYYbb8AGxDsKscYoMB4rPa0wyC0N&_nc_ohc=FS7hco4niXkAX-uRvfS&_nc_ht=scontent.fbga3-1.fna&oh=00_AfAb8ZcHnQ-vx7FwMo1PFMdCF5zgIBnpdeCrnD7KRHXQZA&oe=642F0699"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A3A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A3A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1Ab2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A4A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A4A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A5A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A5A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A6A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A6A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A7A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A8A1"
+            },
+            {
+                "localImage": false,
+                "type": "image",
+                "key": 5,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277975890_5330514016981811_1407076293211455257_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeENU-tuEFc4av8brEUmlTFKSKetnEvCxI9Ip62cS8LEj2WjmHv00CgTXvLTOEHtE60ckHDlYOtQFH_F5TkbJZU6&_nc_ohc=RwN_ikiEwRYAX_GC0nF&_nc_ht=scontent.fbga3-1.fna&oh=00_AfD9f2BK3cv07Exo4OFJ0luQdvs6biO62fImuiC2rCT4zA&oe=642F731C"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A9A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A9A1"
+            }
+        ],
+        "variations": [
+            {
+                "title": "Doradas, modelo 1",
                 "icon": {
                     "type": "image",
                     "key": 3
-                }
+                },
+                "stock": 10,
+                "sku": "sku-1-1"
             },
             {
-                "title": "verde",
+                "title": "Doradas, modelo 2",
                 "icon": {
                     "type": "image",
-                    "key": 4
-                }
+                    "key": 5
+                },
+                "stock": 7,
+                "sku": "sku-1-2"
+            },
+            {
+                "title": "Doradas, modelo 3",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 10,
+                "sku": "sku-1-3"
+            },
+            {
+                "title": "Doradas, modelo 4",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 7,
+                "sku": "sku-1-4"
+            },
+            {
+                "title": "Doradas, modelo 5",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 10,
+                "sku": "sku-1-5"
+            },
+            {
+                "title": "Plateadas, modelo 1",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 5,
+                "sku": "sku-1-6"
+            },
+            {
+                "title": "Plateadas, modelo 2",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 7,
+                "sku": "sku-1-7"
+            },
+            {
+                "title": "Plateadas, modelo 3",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 10,
+                "sku": "sku-1-8"
+            },
+            {
+                "title": "Plateadas, modelo 4",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 10,
+                "sku": "sku-1-9"
+            },
+            {
+                "title": "Plateadas, modelo 5",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 8,
+                "sku": "sku-1-10"
+            },
+            {
+                "title": "Rosadas, modelo 2",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 7,
+                "sku": "sku-1-11"
+            },
+            {
+                "title": "Rosadas, modelo 3",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 9,
+                "sku": "sku-1-12"
+            },
+            {
+                "title": "Rosadas, modelo 4",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 7,
+                "sku": "sku-1-13"
+            },
+            {
+                "title": "Rosadas, modelo 5",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 9,
+                "sku": "sku-1-14"
+            },
+            {
+                "title": "Púrpura, modelo 1",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 10,
+                "sku": "sku-1-15"
+            },
+            {
+                "title": "Azul, modelo 1",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 9,
+                "sku": "sku-1-16"
+            },
+            {
+                "title": "Verde, modelo 1",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 11,
+                "sku": "sku-1-17"
             }
-         
         ]
     },
     {
         "title": "Maripoza2",
-        "description": "Juego de pegatinas de espejo para pared, calcomanía de mariposas con efecto 3D, decoración artística para fiesta, boda, decoración para el hogar, nevera, 12 unids/set",
+        "description": "<p>Perfectas para decoración del hogar🏡, \n\n Paquete de 12 unidades de distintos tamaños</p> ",
         "media": [
             {
                 "type": "video",
@@ -71,9 +321,8 @@
                 "key": 4,
                 "url": "maripoza1"
             }
-            
         ],
-        "variations":[
+        "variations": [
             {
                 "title": "verde",
                 "icon": {
@@ -90,12 +339,11 @@
                     "color": "#F32C3D"
                 }
             }
-         
         ]
     },
     {
         "title": "Maripoza3",
-        "description": "Juego de pegatinas de espejo para pared, calcomanía de mariposas con efecto 3D, decoración artística para fiesta, boda, decoración para el hogar, nevera, 12 unids/set",
+        "description": "<p>Perfectas para decoración del hogar🏡, \n\n Paquete de 12 unidades de distintos tamaños</p> ",
         "media": [
             {
                 "type": "video",
@@ -119,8 +367,6 @@
                 "key": 4,
                 "url": "maripoza1"
             }
-            
-        ]   
+        ]
     }
-    
 ]

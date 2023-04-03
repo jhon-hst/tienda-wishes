@@ -1,4 +1,6 @@
-import { useRef, useState } from "react";
+import { useState } from "react";
+import { createPortal } from "react-dom";
+
 import { Swiper, SwiperSlide } from "swiper/react";
 import type { Swiper as SwiperType } from "swiper";
 
@@ -13,7 +15,6 @@ export default function CardProduct({
   product: ProductType;
   index: number;
 }) {
-  const swiperRef = useRef();
   const [swiperInstance, setSwiperInstance] = useState<SwiperType | null>(null);
 
   const getImageToVariation = (product: ProductType, key: number) => {
@@ -27,20 +28,12 @@ export default function CardProduct({
   };
 
   return (
-    <section className="row sectionProduct">
-      <div
-        className={`col-12 col-lg-5 order-${
-          index % 2 === 0 && window.innerWidth > 1000 ? "1" : "3"
-        }`}
-      >
+    <section className="row sectionProduct mx-2">
+      <div className={"col-12 col-lg-5 order-3"}>
         <h2>{product.title}</h2>
-        <p>{product.description}</p>
+        <div dangerouslySetInnerHTML={{ __html: product.description }} />
       </div>
-      <div
-        className={`col-12 col-lg-1 order-${
-          window.innerWidth > 1000 ? "2" : "3"
-        }`}
-      >
+      <div className={"col-12 col-lg-1 order-2"}>
         {product.variations &&
           product.variations.map((variation, i) => {
             const media = getImageToVariation(product, variation.icon.key);
@@ -67,11 +60,7 @@ export default function CardProduct({
             );
           })}
       </div>
-      <div
-        className={`col-12 col-lg-5 order-${
-          index % 2 !== 0 && window.innerWidth > 1000 ? "1" : "3"
-        }`}
-      >
+      <div className={"col-12 col-lg-5 order-1"}>
         <Swiper
           onSwiper={(sw) => setSwiperInstance(sw)}
           slidesPerView={1}
