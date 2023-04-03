@@ -137,6 +137,102 @@
                 "type": "image",
                 "key": 5,
                 "url": "sku1A9A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A10A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A10A1"
+            },
+            {
+                "localImage": false,
+                "type": "image",
+                "key": 5,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277916916_3469477506509380_4221408628562753929_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGJgWCkI7p4diihsbC_6SjpWjNTl1__9ttaM1OXX__2273-t2IA1639rcFURYYbb8AGxDsKscYoMB4rPa0wyC0N&_nc_ohc=FS7hco4niXkAX-uRvfS&_nc_ht=scontent.fbga3-1.fna&oh=00_AfAb8ZcHnQ-vx7FwMo1PFMdCF5zgIBnpdeCrnD7KRHXQZA&oe=642F0699"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A11A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A12A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A12A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A13A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A13A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A14A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A14A1"
+            },
+            {
+                "localImage": false,
+                "type": "image",
+                "key": 5,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7099720483431622_5363482411950111511_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEcoYPYIba-wvcUMi-e2hZuucDPazW2Rs25wM9rNbZGzbL_FnpHGS8f39Li_GacTbbbJfTFxe9pA7n-R-OpWtOw&_nc_ohc=3-rDbZHdJP8AX_Um1ZJ&_nc_ht=scontent.fbga3-1.fna&oh=00_AfDRfrOj1HjklXdR-IsFxQgo3rc-Zg87oGXqua43-d0eKg&oe=642FDB2E"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A15A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A16A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A16A1"
+            },
+            {
+                "localImage": false,
+                "type": "image",
+                "key": 5,
+                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277915669_7196416010400520_6161106275546869972_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGWzvfrks7oL7qaQDjKHXXELvJEBjyelMAu8kQGPJ6UwAybHpUqWHmaW2ZCjoCgs3kFq28i-l3LGkT0w9iKy017&_nc_ohc=zuzGSjNu8sAAX_SegIX&_nc_ht=scontent.fbga3-1.fna&oh=00_AfADFkP05luPG6zJsbrKlPO7_Z4sI8P1HzAQ7EMX_p2Obw&oe=642E6BBD"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku1A17A1"
             }
         ],
         "variations": [
