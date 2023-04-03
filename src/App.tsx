@@ -7,7 +7,7 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "./styles.css";
 
-import testImg from "./assets/images/IMG_20230304_165900.jpg";
+import testImg from "./assets/images/sku-1/sku-1-1-1.jpg";
 import Product from "./components/Products";
 
 export default function App() {
