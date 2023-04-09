@@ -1,5 +1,6 @@
 [
     {
+        "category": 1,
         "title": "Mariposas efecto 3D, con adhesivo para pared 🦋✨ ",
         "description": "<p>Perfectas para decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
         "priceCost": 4400,
@@ -34,204 +35,204 @@
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku1A2A1"
-            },
-            {
-                "localImage": false,
-                "type": "image",
-                "key": 5,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277916916_3469477506509380_4221408628562753929_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGJgWCkI7p4diihsbC_6SjpWjNTl1__9ttaM1OXX__2273-t2IA1639rcFURYYbb8AGxDsKscYoMB4rPa0wyC0N&_nc_ohc=FS7hco4niXkAX-uRvfS&_nc_ht=scontent.fbga3-1.fna&oh=00_AfAb8ZcHnQ-vx7FwMo1PFMdCF5zgIBnpdeCrnD7KRHXQZA&oe=642F0699"
+                "url": "sku1A2A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 6,
+                "url": "sku1A2A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku1Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 8,
                 "url": "sku1A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 9,
                 "url": "sku1A3A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 10,
                 "url": "sku1Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
-                "url": "sku1A4A1"
-            },
-            {
-                "localImage": true,
-                "type": "image",
-                "key": 5,
+                "key": 11,
                 "url": "sku1A4A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 12,
+                "url": "sku1A4A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 13,
                 "url": "sku1Ab3"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 14,
                 "url": "sku1A5A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 15,
                 "url": "sku1A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 16,
                 "url": "sku1A6A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 17,
                 "url": "sku1A6A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 18,
                 "url": "sku1A7A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
-                "url": "sku1A8A1"
-            },
-            {
-                "localImage": false,
-                "type": "image",
-                "key": 5,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277975890_5330514016981811_1407076293211455257_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeENU-tuEFc4av8brEUmlTFKSKetnEvCxI9Ip62cS8LEj2WjmHv00CgTXvLTOEHtE60ckHDlYOtQFH_F5TkbJZU6&_nc_ohc=RwN_ikiEwRYAX_GC0nF&_nc_ht=scontent.fbga3-1.fna&oh=00_AfD9f2BK3cv07Exo4OFJ0luQdvs6biO62fImuiC2rCT4zA&oe=642F731C"
+                "key": 19,
+                "url": "sku1A8A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 20,
+                "url": "sku1A8A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 21,
                 "url": "sku1A9A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 22,
                 "url": "sku1A9A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 23,
                 "url": "sku1A10A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 24,
                 "url": "sku1A10A1"
-            },
-            {
-                "localImage": false,
-                "type": "image",
-                "key": 5,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277916916_3469477506509380_4221408628562753929_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGJgWCkI7p4diihsbC_6SjpWjNTl1__9ttaM1OXX__2273-t2IA1639rcFURYYbb8AGxDsKscYoMB4rPa0wyC0N&_nc_ohc=FS7hco4niXkAX-uRvfS&_nc_ht=scontent.fbga3-1.fna&oh=00_AfAb8ZcHnQ-vx7FwMo1PFMdCF5zgIBnpdeCrnD7KRHXQZA&oe=642F0699"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 25,
+                "url": "sku1A11A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 26,
                 "url": "sku1A11A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 27,
                 "url": "sku1A12A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 28,
                 "url": "sku1A12A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 29,
                 "url": "sku1A13A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 30,
                 "url": "sku1A13A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 31,
                 "url": "sku1A14A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 32,
                 "url": "sku1A14A1"
-            },
-            {
-                "localImage": false,
-                "type": "image",
-                "key": 5,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7099720483431622_5363482411950111511_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEcoYPYIba-wvcUMi-e2hZuucDPazW2Rs25wM9rNbZGzbL_FnpHGS8f39Li_GacTbbbJfTFxe9pA7n-R-OpWtOw&_nc_ohc=3-rDbZHdJP8AX_Um1ZJ&_nc_ht=scontent.fbga3-1.fna&oh=00_AfDRfrOj1HjklXdR-IsFxQgo3rc-Zg87oGXqua43-d0eKg&oe=642FDB2E"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 33,
+                "url": "sku1A15A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 34,
                 "url": "sku1A15A1"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 35,
                 "url": "sku1A16A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 36,
                 "url": "sku1A16A1"
-            },
-            {
-                "localImage": false,
-                "type": "image",
-                "key": 5,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277915669_7196416010400520_6161106275546869972_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGWzvfrks7oL7qaQDjKHXXELvJEBjyelMAu8kQGPJ6UwAybHpUqWHmaW2ZCjoCgs3kFq28i-l3LGkT0w9iKy017&_nc_ohc=zuzGSjNu8sAAX_SegIX&_nc_ht=scontent.fbga3-1.fna&oh=00_AfADFkP05luPG6zJsbrKlPO7_Z4sI8P1HzAQ7EMX_p2Obw&oe=642E6BBD"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 37,
+                "url": "sku1A17A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 38,
                 "url": "sku1A17A1"
             }
         ],
@@ -258,7 +259,7 @@
                 "title": "Doradas, modelo 3",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 8
                 },
                 "stock": 10,
                 "sku": "sku-1-3"
@@ -267,7 +268,7 @@
                 "title": "Doradas, modelo 4",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 11
                 },
                 "stock": 7,
                 "sku": "sku-1-4"
@@ -276,7 +277,7 @@
                 "title": "Doradas, modelo 5",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 14
                 },
                 "stock": 10,
                 "sku": "sku-1-5"
@@ -285,7 +286,7 @@
                 "title": "Plateadas, modelo 1",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 16
                 },
                 "stock": 5,
                 "sku": "sku-1-6"
@@ -294,7 +295,7 @@
                 "title": "Plateadas, modelo 2",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 18
                 },
                 "stock": 7,
                 "sku": "sku-1-7"
@@ -303,7 +304,7 @@
                 "title": "Plateadas, modelo 3",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 19
                 },
                 "stock": 10,
                 "sku": "sku-1-8"
@@ -312,7 +313,7 @@
                 "title": "Plateadas, modelo 4",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 21
                 },
                 "stock": 10,
                 "sku": "sku-1-9"
@@ -321,7 +322,7 @@
                 "title": "Plateadas, modelo 5",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 23
                 },
                 "stock": 8,
                 "sku": "sku-1-10"
@@ -330,7 +331,7 @@
                 "title": "Rosadas, modelo 2",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 25
                 },
                 "stock": 7,
                 "sku": "sku-1-11"
@@ -339,7 +340,7 @@
                 "title": "Rosadas, modelo 3",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 27
                 },
                 "stock": 9,
                 "sku": "sku-1-12"
@@ -348,7 +349,7 @@
                 "title": "Rosadas, modelo 4",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 29
                 },
                 "stock": 7,
                 "sku": "sku-1-13"
@@ -357,7 +358,7 @@
                 "title": "Rosadas, modelo 5",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 31
                 },
                 "stock": 9,
                 "sku": "sku-1-14"
@@ -366,7 +367,7 @@
                 "title": "Púrpura, modelo 1",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 33
                 },
                 "stock": 10,
                 "sku": "sku-1-15"
@@ -375,7 +376,7 @@
                 "title": "Azul, modelo 1",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 35
                 },
                 "stock": 9,
                 "sku": "sku-1-16"
@@ -384,7 +385,7 @@
                 "title": "Verde, modelo 1",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 37
                 },
                 "stock": 11,
                 "sku": "sku-1-17"
@@ -392,76 +393,162 @@
         ]
     },
     {
-        "title": "Maripoza2",
-        "description": "<p>Perfectas para decoración del hogar🏡, \n\n Paquete de 12 unidades de distintos tamaños</p> ",
+        "category": 3,
+        "title": "Encendedor eléctrico ✨ ",
+        "description": "<p>Encendedor eléctrico de Plasma sin llama con Sensor táctil inteligente personalizado, recargable por USB  <p>Características:  </p> <p>1. mini encendedor de inducción inteligente delgado y ligero  </p> <p>2. chip inteligente integrado, con protección contra sobrecarga y sobrecorriente.  </p> <p>3. Usando carga USB, se puede cargar en un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos.  </p> <p>Material:metal  </p> <p>Tamaño: 82x26x10mm   </p> </p> ",
+        "priceCost": 14400,
+        "salePrice": 30000,
+        "stock": null,
+        "sku": "sku-2",
         "media": [
-            {
-                "type": "video",
-                "key": 1,
-                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
-            },
             {
                 "youtube": true,
                 "type": "video",
-                "key": 2,
-                "url": "https://www.youtube.com/embed/4zTHzoq20Jg"
+                "key": 1,
+                "url": "https://www.youtube.com/embed/MD38KcRcTz0"
             },
             {
+                "localImage": true,
+                "type": "image",
+                "key": 2,
+                "url": "sku2Ab1"
+            },
+            {
+                "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7167550349984082_6270350368604035819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEIkZpZU6XJzHBNJBQqSm4xhhyOEC49R9GGHI4QLj1H0eutEFYppPTxsU9PkpzTQ0L7ofH7LdLdF2d3s6bA6xWc&_nc_ohc=X__-3IQFQZUAX9T8Sw6&_nc_oc=AQmF83Br3BY5Jr5zcZrekR_wGtwjTpBAtQSbFD-7XmtCz6gP7NB53-e1M3wD4YWOPLE&_nc_ht=scontent.fbga3-1.fna&oh=00_AfBaddySSDT4mpEnN9mXvRCDkd8WKGBV-AHU_46NYLgJCA&oe=642DB775"
+                "url": "sku2Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "maripoza1"
+                "url": "sku2Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku2A1A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
+                "url": "sku2A1A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
+                "url": "sku2A1A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
+                "url": "sku2A2A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
+                "url": "sku2A3A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 10,
+                "url": "sku2A4A1"
             }
         ],
         "variations": [
             {
-                "title": "verde",
+                "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 3,
-                    "color": "#454754"
-                }
+                    "key": 5,
+                    "color": "#911718"
+                },
+                "stock": 5,
+                "sku": "sku-2-1"
             },
             {
-                "title": "verde",
+                "title": "Dorado",
                 "icon": {
                     "type": "color",
-                    "key": 4,
-                    "color": "#F32C3D"
-                }
+                    "key": 8,
+                    "color": "#9C8837"
+                },
+                "stock": 6,
+                "sku": "sku-2-2"
+            },
+            {
+                "title": "Plateado",
+                "icon": {
+                    "type": "color",
+                    "key": 9,
+                    "color": "#454754"
+                },
+                "stock": 2,
+                "sku": "sku-2-3"
+            },
+            {
+                "title": "Azul",
+                "icon": {
+                    "type": "color",
+                    "key": 10,
+                    "color": "#0574F2"
+                },
+                "stock": 5,
+                "sku": "sku-2-4"
             }
         ]
     },
     {
-        "title": "Maripoza3",
-        "description": "<p>Perfectas para decoración del hogar🏡, \n\n Paquete de 12 unidades de distintos tamaños</p> ",
+        "category": 2,
+        "title": "Cortador para papas fritas de acero inoxidable, utensilio de cocina con bordes ondulados, pelador de papas, frutas y verduras 🍟",
+        "description": "<p>Utensilio de cocina de acero inoxidable cuchillo cortador con bordes ondulados de patata </p><p> Tamaño: 21,5 cm X 6cm </p><p>Peso neto: 50g </p><p>Características: </p><p>1. Este cuchillo es fuerte, duradero y tiene una hoja afilada. </p><p>2. Hechas a mano apto para patatas fritas, verduras o rodajas de melón. </p><p> 3. Ideal para hacer bordes elegantes y cortes de gofres en varias frutas y verduras. </p>",
+        "priceCost": 8300,
+        "salePrice": 15000,
+        "stock": 27,
+        "sku": "sku-3",
         "media": [
-            {
-                "type": "video",
-                "key": 1,
-                "url": "https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/2fje1A2p95MbcL0NNee/7VoLrDydTbxvuruHHP7_293815864219_hd_hq.mp4?auth_key=1688147662-0-0-e4f4388a06777ec7449b8e683d3f6cc7&w=960&h=720&e=hd&t=2140f2dc16803716625012739e4c24&b=aliexpress&p=ae_sg_ae_sg_vpc_scene&tr=mp4-264-hd"
-            },
             {
                 "youtube": true,
                 "type": "video",
                 "key": 2,
-                "url": "https://www.youtube.com/embed/4zTHzoq20Jg"
-            },
-            {
-                "type": "image",
-                "key": 3,
-                "url": "https://scontent.fbga3-1.fna.fbcdn.net/v/t45.5328-4/277796316_7167550349984082_6270350368604035819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeEIkZpZU6XJzHBNJBQqSm4xhhyOEC49R9GGHI4QLj1H0eutEFYppPTxsU9PkpzTQ0L7ofH7LdLdF2d3s6bA6xWc&_nc_ohc=X__-3IQFQZUAX9T8Sw6&_nc_oc=AQmF83Br3BY5Jr5zcZrekR_wGtwjTpBAtQSbFD-7XmtCz6gP7NB53-e1M3wD4YWOPLE&_nc_ht=scontent.fbga3-1.fna&oh=00_AfBaddySSDT4mpEnN9mXvRCDkd8WKGBV-AHU_46NYLgJCA&oe=642DB775"
+                "url": "https://www.youtube.com/embed/dXr5jd5uOI0"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "maripoza1"
+                "url": "sku3A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku3A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku3A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku3A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku3A5"
             }
         ]
     }

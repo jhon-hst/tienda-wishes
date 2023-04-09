@@ -1,0 +1,7 @@
+agregar los precios
+styles
+cargar productos
+preguntas frecuentes
+pulir textos
+hacer la suma de todos los productos
+verificar las cantidades
