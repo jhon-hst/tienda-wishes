@@ -38,16 +38,16 @@ export default function App() {
           className="header-swiper"
         >
           {ProductsList[0].media.map((data, i) => (
-            <>
+            <div key={i}>
               {data.localImage && (
-                <SwiperSlide key={i}>
+                <SwiperSlide>
                   <img
                     src={Images[data.url]}
                     className="img-swiper-slide-header"
                   />
                 </SwiperSlide>
               )}
-            </>
+            </div>
           ))}
         </Swiper>
       </div>

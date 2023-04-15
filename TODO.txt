@@ -1,9 +1,11 @@
-agregar los precios
-styles
 agregar zoom a las images
-desde el swiper del header redirect a el producto al que se le click
-cargar productos
-preguntas frecuentes
-pulir textos
+Crear components "preguntas frecuentes"
 hacer la suma de todos los productos
+
+
+cargar productos
+agregar las imagenes del header
+desde el swiper del header redirect a el producto al que se le click
 verificar las cantidades
+pulir textos
+agregar las preguntas frecuentes

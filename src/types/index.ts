@@ -13,6 +13,8 @@ export type VariationType = {
     key: number;
     color?: string;
   };
+  stock: number;
+  sku: string;
 };
 
 export type ProductType = {
@@ -20,4 +22,8 @@ export type ProductType = {
   description: string;
   media: Array<MediaType>;
   variations?: Array<VariationType>;
+  priceCost: number;
+  salePrice: number;
+  stock: number | null;
+  sku: "sku-1";
 };
