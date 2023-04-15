@@ -25,5 +25,5 @@ export type ProductType = {
   priceCost: number;
   salePrice: number;
   stock: number | null;
-  sku: "sku-1";
+  sku: string;
 };

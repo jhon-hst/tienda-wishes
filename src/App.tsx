@@ -5,6 +5,8 @@ import { Pagination, Navigation } from "swiper";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import "swiper/css/zoom";
+
 import "./styles.css";
 
 import testImg from "./assets/images/sku-1/sku-1-1-1.jpg";
