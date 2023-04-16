@@ -1,5 +1,7 @@
 {
-    "decor": 1,
+    "1": "decor",
     "kitchen": 2,
-    "lighters": 3
+    "lighters": 3,
+    "salud": 4,
+    "reloj": 5
 }
