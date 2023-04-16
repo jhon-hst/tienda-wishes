@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import type { Swiper as SwiperType } from "swiper";
 
-import { Pagination, Navigation, Zoom } from "swiper";
+import { Pagination, Navigation } from "swiper";
 import Images from "../../assets/images";
 import { ProductType } from "../../types";
 
@@ -21,13 +21,12 @@ export default function SwiperImages({
         type: "fraction",
       }}
       navigation={true}
-      zoom={true}
-      modules={[Zoom, Pagination, Navigation]}
+      modules={[Pagination, Navigation]}
       className="swiper-slide-product"
     >
       {product.media.map((media, ind) => (
         <SwiperSlide key={ind}>
-          <div className="swiper-zoom-container">
+          <div className="">
             {media.type === "image" && (
               <img
                 className="swiper-product-img"

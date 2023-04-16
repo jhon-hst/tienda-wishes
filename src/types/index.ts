@@ -4,6 +4,7 @@ export type MediaType = {
   url: string;
   localImage?: boolean;
   youtube?: boolean;
+  main?: boolean;
 };
 
 export type VariationType = {
