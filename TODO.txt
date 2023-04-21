@@ -1,14 +1,17 @@
+cargar productos
+    - Descargar images
+    
+    - Agregar las imagenes en los index
+    - subir videos a youtube
+    - Agreagar los productos en el Json
+    - Agregar los textos (title, description)
+
+disminuir la calidad de las imagenes
 agregar zoom a las images
 Crear components "preguntas frecuentes"
 hacer la suma de todos los productos
 Colocar id a los títulos de los productos
 Loading a las imágenes 
-cargar productos
-    - Descargar images
-    - Agregar las imagenes en los index
-    - subir videos a youtube
-    - Agreagar los productos en el Json
-    - Agregar los textos (title, description)
 
 agregar las imagenes del header
 desde el swiper del header redirect a el producto al que se le click

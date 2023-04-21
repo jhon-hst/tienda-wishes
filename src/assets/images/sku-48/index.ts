@@ -1,1 +1,15 @@
-// https://video.aliexpress-media.com/play/u/ae_sg_item/2659665806/p/1/e/6/t/10301/315365921651.mp4?from=chrome&definition=h265
+import sku48A1 from "../../../assets/images/sku-48/sku-48-1.webp";
+import sku48A2 from "../../../assets/images/sku-48/sku-48-2.webp";
+import sku48A3 from "../../../assets/images/sku-48/sku-48-3.webp";
+import sku48A4 from "../../../assets/images/sku-48/sku-48-4.webp";
+import sku48A5 from "../../../assets/images/sku-48/sku-48-5.webp";
+
+const Images: { [key: string]: string } = {
+  sku48A1,
+  sku48A2,
+  sku48A3,
+  sku48A4,
+  sku48A5,
+};
+
+export default Images;
