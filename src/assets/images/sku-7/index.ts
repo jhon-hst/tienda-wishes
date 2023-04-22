@@ -1,5 +1,5 @@
 import sku7A1A1 from "../../../assets/images/sku-7/sku-7-1-1.jpeg";
-import sku7A1A2 from "../../../assets/images/sku-7/sku-7-1-3.jpeg";
+import sku7A1A2 from "../../../assets/images/sku-7/sku-7-1-2.jpeg";
 import sku7A2A1 from "../../../assets/images/sku-7/sku-7-2-1.jpeg";
 import sku7A3A1 from "../../../assets/images/sku-7/sku-7-3-1.jpeg";
 import sku7Ab1 from "../../../assets/images/sku-7/sku-7-b1.jpeg";
