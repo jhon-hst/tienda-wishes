@@ -19,6 +19,7 @@ export type VariationType = {
 };
 
 export type ProductType = {
+  category: number;
   title: string;
   description: string;
   media: Array<MediaType>;

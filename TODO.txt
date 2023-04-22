@@ -1,10 +1,11 @@
 cargar productos
     - Descargar images
-    
     - Agregar las imagenes en los index
+
     - subir videos a youtube
     - Agreagar los productos en el Json
     - Agregar los textos (title, description)
+    - Agregar title y description a los video de youtube
 
 disminuir la calidad de las imagenes
 agregar zoom a las images
