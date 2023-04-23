@@ -553,12 +553,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-4",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 20000,
+        "salePrice": 32000,
+        "stock": null,
         "sku": "sku-4",
         "media": [
             {
@@ -612,41 +612,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#A3E5D1"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-2"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-3"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-5",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 15000,
+        "salePrice": 25000,
+        "stock": null,
         "sku": "sku-5",
         "media": [
             {
@@ -712,50 +715,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#EBD1DD"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#98D7D1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-3"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-4"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-6",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 3100,
+        "salePrice": 5000,
+        "stock": null,
         "sku": "sku-6",
         "media": [
             {
@@ -851,77 +858,84 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#592374"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-1"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#3494D2"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-2"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#FE3533"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-3"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-4"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 7
+                    "type": "color",
+                    "key": 7,
+                    "color": "#00FA02"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-5"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 8
+                    "type": "color",
+                    "key": 8,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-6"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 9
+                    "type": "color",
+                    "key": 9,
+                    "color": "#FF8389"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-7"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-7",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7000,
+        "salePrice": 10000,
+        "stock": null,
         "sku": "sku-7",
         "media": [
             {
@@ -975,41 +989,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-7-1"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#FEB1D1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-7-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-7-3"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-8",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 21600,
+        "salePrice": 30000,
+        "stock": 5,
         "sku": "sku-8",
         "media": [
             {
@@ -1051,12 +1068,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-9",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7100,
+        "salePrice": 15000,
+        "stock": 8,
         "sku": "sku-9",
         "media": [
             {
@@ -1098,12 +1115,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-10",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 8000,
+        "salePrice": 15000,
+        "stock": 27,
         "sku": "sku-10",
         "media": [
             {
@@ -1145,12 +1162,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 4,
         "title": "sku-11",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 6600,
+        "salePrice": 12000,
+        "stock": 13,
         "sku": "sku-11",
         "media": [
             {
@@ -1192,12 +1209,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-12",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 2000,
+        "salePrice": 4000,
+        "stock": 21,
         "sku": "sku-12",
         "media": [
             {
@@ -1245,12 +1262,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 4,
         "title": "sku-13",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "description": "3 S, 2 M, 3 L, 3 XL",
+        "priceCost": 24000,
+        "salePrice": 35000,
+        "stock": 11,
         "sku": "sku-13",
         "media": [
             {
@@ -1286,12 +1303,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-14",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 30000,
+        "salePrice": 45000,
+        "stock": 4,
         "sku": "sku-14",
         "media": [
             {
@@ -1339,12 +1356,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-15",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 4200,
+        "salePrice": 700,
+        "stock": null,
         "sku": "sku-15",
         "media": [
             {
@@ -1398,68 +1415,74 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-15-1"
             },
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#48408D"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#48915F"
                 },
-                "stock": 0,
+                "stock": 4,
                 "sku": "sku-15-3"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#F5458C"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-4"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#CD1925"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-5"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#3E9AB7"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-15-6"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-16",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 9200,
+        "salePrice": 1500,
+        "stock": null,
         "sku": "sku-16",
         "media": [
             {
@@ -1483,32 +1506,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-16-1"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-16-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-17",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 10400,
+        "salePrice": 20000,
+        "stock": null,
         "sku": "sku-17",
         "media": [
             {
@@ -1562,50 +1587,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 15,
                 "sku": "sku-17-1"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FF363B"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-17-2"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#1468FF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-17-3"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#C78C11"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-17-4"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-18",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7600,
+        "salePrice": 10000,
+        "stock": 1,
         "sku": "sku-18",
         "media": [
             {
@@ -1623,12 +1652,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-19",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 6200,
+        "salePrice": 15000,
+        "stock": null,
         "sku": "sku-19",
         "media": [
             {
@@ -1682,59 +1711,64 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFA8FF"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-1"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FF6FA0"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-19-3"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-4"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#AAF197"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-5"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-20",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 31000,
+        "salePrice": 48000,
+        "stock": 1,
         "sku": "sku-20",
         "media": [
             {
@@ -1770,12 +1804,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-21",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 16000,
+        "salePrice": 30000,
+        "stock": null,
         "sku": "sku-21",
         "media": [
             {
@@ -1835,68 +1869,68 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Modelo A",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 5,
                 "sku": "sku-21-1"
             },
             {
-                "title": "",
+                "title": "Modelo B",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-21-2"
             },
             {
-                "title": "",
+                "title": "Modelo C",
                 "icon": {
                     "type": "image",
                     "key": 3
                 },
-                "stock": 0,
+                "stock": 4,
                 "sku": "sku-21-3"
             },
             {
-                "title": "",
+                "title": "Modelo D",
                 "icon": {
                     "type": "image",
                     "key": 4
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-21-4"
             },
             {
-                "title": "",
+                "title": "Modelo E",
                 "icon": {
                     "type": "image",
                     "key": 5
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-21-5"
             },
             {
-                "title": "",
+                "title": "Modelo F",
                 "icon": {
                     "type": "image",
                     "key": 6
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-21-6"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-22",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "description": "2 Rosados, 2 negros, 2 grises",
+        "priceCost": 8000,
+        "salePrice": 12000,
+        "stock": 6,
         "sku": "sku-22",
         "media": [
             {
@@ -1956,12 +1990,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-23",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 4000,
+        "salePrice": 10000,
+        "stock": null,
         "sku": "sku-23",
         "media": [
             {
@@ -1991,32 +2025,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-23-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-23-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-24",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 17000,
+        "salePrice": 35000,
+        "stock": null,
         "sku": "sku-24",
         "media": [
             {
@@ -2070,41 +2106,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#0443E6"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-24-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-24-2"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#F0DB88"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-24-3"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-25",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 2,
         "sku": "sku-25",
         "media": [
             {
@@ -2134,12 +2173,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-26",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 2,
         "sku": "sku-26",
         "media": [
             {
@@ -2163,12 +2202,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-27",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-27",
         "media": [
             {
@@ -2186,12 +2225,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-28",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 5000,
+        "salePrice": 8000,
+        "stock": null,
         "sku": "sku-28",
         "media": [
             {
@@ -2251,50 +2290,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rasado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#F5C6C0"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-1"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#54838B"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-3"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#86C3CC"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-4"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-29",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 4500,
+        "salePrice": 7000,
+        "stock": null,
         "sku": "sku-29",
         "media": [
             {
@@ -2312,32 +2355,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Círculo",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-29-1"
             },
             {
-                "title": "",
+                "title": "Corazón",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-29-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 3,
         "title": "sku-30",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 19300,
+        "salePrice": 30000,
+        "stock": 3,
         "sku": "sku-30",
         "media": [
             {
@@ -2361,12 +2404,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-31",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7100,
+        "salePrice": 12000,
+        "stock": 2,
         "sku": "sku-31",
         "media": [
             {
@@ -2408,12 +2451,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-32",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 6100,
+        "salePrice": 10000,
+        "stock": 3,
         "sku": "sku-32",
         "media": [
             {
@@ -2443,12 +2486,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-33",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 8200,
+        "salePrice": 13000,
+        "stock": 2,
         "sku": "sku-33",
         "media": [
             {
@@ -2478,12 +2521,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-34",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 16000,
+        "salePrice": 24000,
+        "stock": null,
         "sku": "sku-34",
         "media": [
             {
@@ -2519,32 +2562,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-34-1"
             },
             {
-                "title": "",
+                "title": "Transparente",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-34-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-35",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 13000,
+        "salePrice": 19000,
+        "stock": 5,
         "sku": "sku-35",
         "media": [
             {
@@ -2592,12 +2635,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-36",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 8000,
+        "salePrice": 14000,
+        "stock": null,
         "sku": "sku-36",
         "media": [
             {
@@ -2627,32 +2670,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-36-1"
             },
             {
-                "title": "",
+                "title": "Transparente",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-36-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-37",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7400,
+        "salePrice": 11000,
+        "stock": 2,
         "sku": "sku-37",
         "media": [
             {
@@ -2682,35 +2725,35 @@
         ]
     },
     {
-        "category": 0,
+        "category": 5,
         "title": "sku-38",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-38",
         "media": [
             {
                 "localImage": true,
                 "type": "image",
-                "key": 1,
-                "url": "sku38A1"
+                "key": 2,
+                "url": "sku38A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 2,
-                "url": "sku38A2"
+                "key": 1,
+                "url": "sku38A1"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 5,
         "title": "sku-39",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": null,
         "sku": "sku-39",
         "media": [
             {
@@ -2740,41 +2783,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#B21F06"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-39-1"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#F8DC82"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-39-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-39-3"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 5,
         "title": "sku-40",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-40",
         "media": [
             {
@@ -2792,12 +2838,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 5,
         "title": "sku-41",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 23000,
+        "salePrice": 35000,
+        "stock": null,
         "sku": "sku-41",
         "media": [
             {
@@ -2827,32 +2873,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FC2E22"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-41-1"
             },
             {
-                "title": "",
+                "title": "Plateado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#C7C8C8"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-41-2"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-42",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 6500,
+        "salePrice": 10000,
+        "stock": 3,
         "sku": "sku-42",
         "media": [
             {
@@ -2882,12 +2930,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-43",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7800,
+        "salePrice": 11000,
+        "stock": 3,
         "sku": "sku-43",
         "media": [
             {
@@ -2911,12 +2959,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-44",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7100,
+        "salePrice": 13000,
+        "stock": 10,
         "sku": "sku-44",
         "media": [
             {
@@ -2946,12 +2994,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-45",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 15000,
+        "salePrice": 20000,
+        "stock": 4,
         "sku": "sku-45",
         "media": [
             {
@@ -2987,12 +3035,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-46",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 13500,
+        "salePrice": 20000,
+        "stock": 5,
         "sku": "sku-46",
         "media": [
             {
@@ -3034,12 +3082,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-47",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 4500,
+        "salePrice": 8000,
+        "stock": 3,
         "sku": "sku-47",
         "media": [
             {
@@ -3069,12 +3117,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-48",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 10,
         "sku": "sku-48",
         "media": [
             {
@@ -3110,12 +3158,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-49",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 3800,
+        "salePrice": 8000,
+        "stock": 14,
         "sku": "sku-49",
         "media": [
             {
@@ -3157,12 +3205,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-50",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 10700,
+        "salePrice": 16000,
+        "stock": 8,
         "sku": "sku-50",
         "media": [
             {
@@ -3216,12 +3264,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-51",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 10700,
+        "salePrice": 16000,
+        "stock": 3,
         "sku": "sku-51",
         "media": [
             {
@@ -3257,12 +3305,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-52",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 17000,
+        "salePrice": 25000,
+        "stock": null,
         "sku": "sku-52",
         "media": [
             {
@@ -3310,50 +3358,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#56DEFE"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-1"
             },
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#D4BBF7"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#C9F2E2"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-3"
             },
             {
-                "title": "",
+                "title": "Rasado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FECFF1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-4"
             }
         ]
     },
     {
-        "category": 0,
+        "category": 1,
         "title": "sku-53",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 16000,
+        "salePrice": 23000,
+        "stock": 6,
         "sku": "sku-53",
         "media": [
             {
@@ -3377,12 +3429,12 @@
         ]
     },
     {
-        "category": 0,
+        "category": 2,
         "title": "sku-54",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 11700,
+        "salePrice": 15000,
+        "stock": 7,
         "sku": "sku-54",
         "media": [
             {
