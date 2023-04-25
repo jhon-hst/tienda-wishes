@@ -1,8 +1,8 @@
 [
     {
         "category": 1,
-        "title": "Mariposas efecto 3D, con adhesivo para pared 🦋✨ ",
-        "description": "<p>Perfectas para decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
+        "title": "Mariposas de efecto 3D, con adhesivo para pared 🦋✨ ",
+        "description": "<p>Perfectas para la decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
         "priceCost": 4400,
         "salePrice": 10000,
         "stock": null,
@@ -238,7 +238,7 @@
         ],
         "variations": [
             {
-                "title": "Doradas, modelo 1",
+                "title": "el modelo 1 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 3
@@ -247,7 +247,7 @@
                 "sku": "sku-1-1"
             },
             {
-                "title": "Doradas, modelo 2",
+                "title": "el modelo 2 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 5
@@ -256,7 +256,7 @@
                 "sku": "sku-1-2"
             },
             {
-                "title": "Doradas, modelo 3",
+                "title": "el modelo 3 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 8
@@ -265,7 +265,7 @@
                 "sku": "sku-1-3"
             },
             {
-                "title": "Doradas, modelo 4",
+                "title": "el modelo 4 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 11
@@ -274,7 +274,7 @@
                 "sku": "sku-1-4"
             },
             {
-                "title": "Doradas, modelo 5",
+                "title": "el modelo 5 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 14
@@ -283,7 +283,7 @@
                 "sku": "sku-1-5"
             },
             {
-                "title": "Plateadas, modelo 1",
+                "title": "el modelo 1 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 16
@@ -292,7 +292,7 @@
                 "sku": "sku-1-6"
             },
             {
-                "title": "Plateadas, modelo 2",
+                "title": "el modelo 2 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 18
@@ -301,7 +301,7 @@
                 "sku": "sku-1-7"
             },
             {
-                "title": "Plateadas, modelo 3",
+                "title": "el modelo 3 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 19
@@ -310,7 +310,7 @@
                 "sku": "sku-1-8"
             },
             {
-                "title": "Plateadas, modelo 4",
+                "title": "el modelo 4 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 21
@@ -319,7 +319,7 @@
                 "sku": "sku-1-9"
             },
             {
-                "title": "Plateadas, modelo 5",
+                "title": "el modelo 5 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 23
@@ -328,7 +328,7 @@
                 "sku": "sku-1-10"
             },
             {
-                "title": "Rosadas, modelo 2",
+                "title": "el modelo 2 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 25
@@ -337,7 +337,7 @@
                 "sku": "sku-1-11"
             },
             {
-                "title": "Rosadas, modelo 3",
+                "title": "el modelo 3 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 27
@@ -346,7 +346,7 @@
                 "sku": "sku-1-12"
             },
             {
-                "title": "Rosadas, modelo 4",
+                "title": "el modelo 4 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 29
@@ -355,7 +355,7 @@
                 "sku": "sku-1-13"
             },
             {
-                "title": "Rosadas, modelo 5",
+                "title": "el modelo 5 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 31
@@ -364,7 +364,7 @@
                 "sku": "sku-1-14"
             },
             {
-                "title": "Púrpura, modelo 1",
+                "title": "el modelo 1 de color Púrpura",
                 "icon": {
                     "type": "image",
                     "key": 33
@@ -373,7 +373,7 @@
                 "sku": "sku-1-15"
             },
             {
-                "title": "Azul, modelo 1",
+                "title": "el modelo 1 de color Azul",
                 "icon": {
                     "type": "image",
                     "key": 35
@@ -382,7 +382,7 @@
                 "sku": "sku-1-16"
             },
             {
-                "title": "Verde, modelo 1",
+                "title": "el modelo 1 de color Verde",
                 "icon": {
                     "type": "image",
                     "key": 37
@@ -395,7 +395,7 @@
     {
         "category": 3,
         "title": "Encendedor eléctrico ✨ ",
-        "description": "<p>Encendedor eléctrico de Plasma sin llama con Sensor táctil inteligente personalizado, recargable por USB  <p>Características:  </p> <p>1. mini encendedor de inducción inteligente delgado y ligero  </p> <p>2. chip inteligente integrado, con protección contra sobrecarga y sobrecorriente.  </p> <p>3. Usando carga USB, se puede cargar en un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos.  </p> <p>Material:metal  </p> <p>Tamaño: 82x26x10mm   </p> </p> ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, recargable por USB  <p>Características:  </p> <p>1. mini encendedor de inducción inteligente delgado y ligero  </p> <p>2. chip inteligente integrado, con protección contra sobrecarga y sobrecorriente.  </p> <p>3. Usando carga USB, se puede cargar en un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos.  </p> <p>Material: Metal  </p> <p>Tamaño: 82x26x10mm   </p> </p> ",
         "priceCost": 14400,
         "salePrice": 30000,
         "stock": null,
@@ -554,8 +554,8 @@
     },
     {
         "category": 1,
-        "title": "sku-4",
-        "description": "",
+        "title": "Soporte de escritorio para celular",
+        "description": "Soporte de escritorio para celular📱 plegable y adaptable a cualquier espacio",
         "priceCost": 20000,
         "salePrice": 32000,
         "stock": null,
@@ -645,8 +645,8 @@
     },
     {
         "category": 1,
-        "title": "sku-5",
-        "description": "",
+        "title": "Soporte de celular plegable",
+        "description": "Soporte plegable de escritorio para celular📱, Excelente tamaño para adaptarse a cualquier espacio✨",
         "priceCost": 15000,
         "salePrice": 25000,
         "stock": null,
