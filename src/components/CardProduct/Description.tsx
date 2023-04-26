@@ -35,6 +35,7 @@ export default function Description({
           className="mt-4 mb-4"
           dangerouslySetInnerHTML={{ __html: product.description }}
         />
+        <p>SKU: {product.sku}</p>
       </div>
       <div className={"col-12 order-1 order-lg-2"}>
         {product.variations && (
