@@ -32,7 +32,7 @@ export default function Description({
       <div className="col-12 order-2 order-lg-1">
         <h2 className="d-none d-lg-block">{product.title}</h2>
         <div
-          className="mt-4"
+          className="mt-4 mb-4"
           dangerouslySetInnerHTML={{ __html: product.description }}
         />
       </div>

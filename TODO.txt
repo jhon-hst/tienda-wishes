@@ -5,7 +5,9 @@ cargar productos
     - Agreagar los productos en el Json
 
     - Agregar los textos (title, description)
+    - pulir textos
     - Agregar title y description a los video de youtube
+    - Revisar si hay video en aliexpress
 
 disminuir la calidad de las imagenes
 agregar zoom a las images
@@ -19,6 +21,6 @@ Agregar el sku en la descripción
 agregar las imagenes del header
 desde el swiper del header redirect a el producto al que se le click
 verificar las cantidades
-pulir textos
+
 agregar las preguntas frecuentes
 crear excel
