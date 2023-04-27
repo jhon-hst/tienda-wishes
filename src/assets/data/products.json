@@ -3468,5 +3468,371 @@
                 "url": "sku54A5"
             }
         ]
+    },
+    {
+        "category": 2,
+        "title": "Cuchara Colador",
+        "description": "2 unidades disponibles, 1 en color negro y 1 en color azul",
+        "priceCost": 11200,
+        "salePrice": 14000,
+        "stock": 2,
+        "sku": "sku-55",
+        "media": [
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 1,
+                "url": "sku55A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 2,
+                "url": "sku55A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
+                "url": "sku55A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku55A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku55A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku55A5"
+            }
+        ]
+    },
+    {
+        "category": 1,
+        "title": "Pegatinas luminosas de dibujos animados que brillan en la oscuridad 🦋✨ ",
+        "description": "<p>Es adhesivo y se puede pegar fácilmente en paredes, vidrio, madera, plástico o en cualquier lugar de su elección. 🏡</p> <p>Material: PET/PVC<p/> ",
+        "priceCost": 1000,
+        "salePrice": 4000,
+        "stock": null,
+        "sku": "sku-56",
+        "media": [
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 1,
+                "url": "sku56A1A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 2,
+                "url": "sku56A1A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
+                "url": "sku56A2A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
+                "url": "sku56A2A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
+                "url": "sku56A3A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
+                "url": "sku56A3A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
+                "url": "sku56A4A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
+                "url": "sku56A4A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
+                "url": "sku56A5A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 10,
+                "url": "sku56A5A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 11,
+                "url": "sku56A6A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 12,
+                "url": "sku56A6A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 13,
+                "url": "sku56A7A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 14,
+                "url": "sku56A7A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 15,
+                "url": "sku56A8A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 16,
+                "url": "sku56A8A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 17,
+                "url": "sku56A9A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 18,
+                "url": "sku56A9A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 19,
+                "url": "sku56A10A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 20,
+                "url": "sku56A10A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 21,
+                "url": "sku56A11A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 22,
+                "url": "sku56A11A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 23,
+                "url": "sku56A12A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 24,
+                "url": "sku56A12A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 25,
+                "url": "sku56A13A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 26,
+                "url": "sku56A13A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 27,
+                "url": "sku56A14A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 28,
+                "url": "sku56A14A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 29,
+                "url": "sku56Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 30,
+                "url": "sku56Ab2"
+            }
+        ],
+        "variations": [
+            {
+                "title": "el modelo 1",
+                "icon": {
+                    "type": "image",
+                    "key": 1
+                },
+                "stock": 3,
+                "sku": "sku-56-1"
+            },
+            {
+                "title": "el modelo 2",
+                "icon": {
+                    "type": "image",
+                    "key": 3
+                },
+                "stock": 3,
+                "sku": "sku-56-2"
+            },
+            {
+                "title": "el modelo 3",
+                "icon": {
+                    "type": "image",
+                    "key": 5
+                },
+                "stock": 2,
+                "sku": "sku-56-3"
+            },
+            {
+                "title": "el modelo 4",
+                "icon": {
+                    "type": "image",
+                    "key": 7
+                },
+                "stock": 5,
+                "sku": "sku-56-4"
+            },
+            {
+                "title": "el modelo 5",
+                "icon": {
+                    "type": "image",
+                    "key": 9
+                },
+                "stock": 3,
+                "sku": "sku-56-5"
+            },
+            {
+                "title": "el modelo 6",
+                "icon": {
+                    "type": "image",
+                    "key": 11
+                },
+                "stock": 2,
+                "sku": "sku-56-6"
+            },
+            {
+                "title": "el modelo 7",
+                "icon": {
+                    "type": "image",
+                    "key": 13
+                },
+                "stock": 3,
+                "sku": "sku-56-7"
+            },
+            {
+                "title": "el modelo 8",
+                "icon": {
+                    "type": "image",
+                    "key": 15
+                },
+                "stock": 3,
+                "sku": "sku-56-8"
+            },
+            {
+                "title": "el modelo 9",
+                "icon": {
+                    "type": "image",
+                    "key": 17
+                },
+                "stock": 3,
+                "sku": "sku-56-9"
+            },
+            {
+                "title": "el modelo 10",
+                "icon": {
+                    "type": "image",
+                    "key": 19
+                },
+                "stock": 3,
+                "sku": "sku-56-10"
+            },
+            {
+                "title": "el modelo 11",
+                "icon": {
+                    "type": "image",
+                    "key": 21
+                },
+                "stock": 3,
+                "sku": "sku-56-11"
+            },
+            {
+                "title": "el modelo 12",
+                "icon": {
+                    "type": "image",
+                    "key": 23
+                },
+                "stock": 3,
+                "sku": "sku-56-12"
+            },
+            {
+                "title": "el modelo 13",
+                "icon": {
+                    "type": "image",
+                    "key": 25
+                },
+                "stock": 3,
+                "sku": "sku-56-13"
+            },
+            {
+                "title": "el modelo 14",
+                "icon": {
+                    "type": "image",
+                    "key": 27
+                },
+                "stock": 3,
+                "sku": "sku-56-14"
+            }
+        ]
     }
 ]

@@ -52,6 +52,8 @@ import sku51 from "../../assets/images/sku-51";
 import sku52 from "../../assets/images/sku-52";
 import sku53 from "../../assets/images/sku-53";
 import sku54 from "../../assets/images/sku-54";
+import sku55 from "../../assets/images/sku-55";
+import sku56 from "../../assets/images/sku-56";
 
 export default {
   ...sku1,
@@ -108,4 +110,6 @@ export default {
   ...sku52,
   ...sku53,
   ...sku54,
+  ...sku55,
+  ...sku56,
 };

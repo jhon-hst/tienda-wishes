@@ -1,8 +1,8 @@
 [
     {
         "category": 1,
-        "title": "Mariposas efecto 3D, con adhesivo para pared 🦋✨ ",
-        "description": "<p>Perfectas para decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
+        "title": "Mariposas de efecto 3D, con adhesivo para pared 🦋✨ ",
+        "description": "<p>Perfectas para la decoración del hogar 🏡</p> <p>Paquete de 12 unidades de distintos tamaños<p/> <p>Material: papel/pvc</p> ",
         "priceCost": 4400,
         "salePrice": 10000,
         "stock": null,
@@ -238,7 +238,7 @@
         ],
         "variations": [
             {
-                "title": "Doradas, modelo 1",
+                "title": "el modelo 1 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 3
@@ -247,7 +247,7 @@
                 "sku": "sku-1-1"
             },
             {
-                "title": "Doradas, modelo 2",
+                "title": "el modelo 2 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 5
@@ -256,7 +256,7 @@
                 "sku": "sku-1-2"
             },
             {
-                "title": "Doradas, modelo 3",
+                "title": "el modelo 3 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 8
@@ -265,7 +265,7 @@
                 "sku": "sku-1-3"
             },
             {
-                "title": "Doradas, modelo 4",
+                "title": "el modelo 4 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 11
@@ -274,7 +274,7 @@
                 "sku": "sku-1-4"
             },
             {
-                "title": "Doradas, modelo 5",
+                "title": "el modelo 5 de color Doradas",
                 "icon": {
                     "type": "image",
                     "key": 14
@@ -283,7 +283,7 @@
                 "sku": "sku-1-5"
             },
             {
-                "title": "Plateadas, modelo 1",
+                "title": "el modelo 1 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 16
@@ -292,7 +292,7 @@
                 "sku": "sku-1-6"
             },
             {
-                "title": "Plateadas, modelo 2",
+                "title": "el modelo 2 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 18
@@ -301,7 +301,7 @@
                 "sku": "sku-1-7"
             },
             {
-                "title": "Plateadas, modelo 3",
+                "title": "el modelo 3 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 19
@@ -310,7 +310,7 @@
                 "sku": "sku-1-8"
             },
             {
-                "title": "Plateadas, modelo 4",
+                "title": "el modelo 4 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 21
@@ -319,7 +319,7 @@
                 "sku": "sku-1-9"
             },
             {
-                "title": "Plateadas, modelo 5",
+                "title": "el modelo 5 de color Plateadas",
                 "icon": {
                     "type": "image",
                     "key": 23
@@ -328,7 +328,7 @@
                 "sku": "sku-1-10"
             },
             {
-                "title": "Rosadas, modelo 2",
+                "title": "el modelo 2 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 25
@@ -337,7 +337,7 @@
                 "sku": "sku-1-11"
             },
             {
-                "title": "Rosadas, modelo 3",
+                "title": "el modelo 3 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 27
@@ -346,7 +346,7 @@
                 "sku": "sku-1-12"
             },
             {
-                "title": "Rosadas, modelo 4",
+                "title": "el modelo 4 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 29
@@ -355,7 +355,7 @@
                 "sku": "sku-1-13"
             },
             {
-                "title": "Rosadas, modelo 5",
+                "title": "el modelo 5 de color Rosadas",
                 "icon": {
                     "type": "image",
                     "key": 31
@@ -364,7 +364,7 @@
                 "sku": "sku-1-14"
             },
             {
-                "title": "Púrpura, modelo 1",
+                "title": "el modelo 1 de color Púrpura",
                 "icon": {
                     "type": "image",
                     "key": 33
@@ -373,7 +373,7 @@
                 "sku": "sku-1-15"
             },
             {
-                "title": "Azul, modelo 1",
+                "title": "el modelo 1 de color Azul",
                 "icon": {
                     "type": "image",
                     "key": 35
@@ -382,7 +382,7 @@
                 "sku": "sku-1-16"
             },
             {
-                "title": "Verde, modelo 1",
+                "title": "el modelo 1 de color Verde",
                 "icon": {
                     "type": "image",
                     "key": 37
@@ -395,7 +395,7 @@
     {
         "category": 3,
         "title": "Encendedor eléctrico ✨ ",
-        "description": "<p>Encendedor eléctrico de Plasma sin llama con Sensor táctil inteligente personalizado, recargable por USB  <p>Características:  </p> <p>1. mini encendedor de inducción inteligente delgado y ligero  </p> <p>2. chip inteligente integrado, con protección contra sobrecarga y sobrecorriente.  </p> <p>3. Usando carga USB, se puede cargar en un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos.  </p> <p>Material:metal  </p> <p>Tamaño: 82x26x10mm   </p> </p> ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, la elección perfecta para aquellos que buscan calidad y comodidad. Este mini encendedor de inducción inteligente es delgado y ligero, con un chip inteligente integrado que garantiza protección contra sobrecarga y sobrecorriente.  </p> <p>Además, con su carga USB, se puede recargar en cualquier lugar, como un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos. Fabricado con metal resistente, su tamaño compacto de 82x26x10mm lo convierte en el encendedor perfecto para llevar en el bolsillo o en el bolso.  </p> ",
         "priceCost": 14400,
         "salePrice": 30000,
         "stock": null,
@@ -507,8 +507,8 @@
     },
     {
         "category": 2,
-        "title": "Cortador para papas fritas de acero inoxidable, utensilio de cocina con bordes ondulados, pelador de papas, frutas y verduras 🍟",
-        "description": "<p>Utensilio de cocina de acero inoxidable cuchillo cortador con bordes ondulados de patata </p><p> Tamaño: 21,5 cm X 6cm </p><p>Peso neto: 50g </p><p>Características: </p><p>1. Este cuchillo es fuerte, duradero y tiene una hoja afilada. </p><p>2. Hechas a mano apto para patatas fritas, verduras o rodajas de melón. </p><p> 3. Ideal para hacer bordes elegantes y cortes de gofres en varias frutas y verduras. </p>",
+        "title": "Cortador para papas fritas con bordes ondulados 🍟",
+        "description": "<p> Tamaño: 21,5 cm X 6cm </p><p>Peso neto: 50g </p><p>Características: </p><p>1. Este cuchillo es fuerte, duradero y tiene una hoja afilada. </p><p> 2. Ideal para hacer bordes elegantes y cortes de gofres en varias frutas y verduras. </p>",
         "priceCost": 8300,
         "salePrice": 15000,
         "stock": 27,
@@ -553,12 +553,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-4",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte de escritorio para celular",
+        "description": "Soporte de escritorio para celular📱 plegable y adaptable a cualquier espacio",
+        "priceCost": 20000,
+        "salePrice": 32000,
+        "stock": null,
         "sku": "sku-4",
         "media": [
             {
@@ -612,41 +612,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#A3E5D1"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-2"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-4-3"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-5",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte de celular plegable",
+        "description": "Soporte plegable de escritorio para celular📱, Excelente tamaño para adaptarse a cualquier espacio✨",
+        "priceCost": 15000,
+        "salePrice": 25000,
+        "stock": null,
         "sku": "sku-5",
         "media": [
             {
@@ -712,50 +715,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#EBD1DD"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#98D7D1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-3"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-5-4"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-6",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte ajustable para celular",
+        "description": "Soporte para celular📱 ajustable y plegable",
+        "priceCost": 3100,
+        "salePrice": 5000,
+        "stock": null,
         "sku": "sku-6",
         "media": [
             {
@@ -851,77 +858,84 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#592374"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-1"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#3494D2"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-2"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#FE3533"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-3"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-4"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 7
+                    "type": "color",
+                    "key": 7,
+                    "color": "#00FA02"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-5"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 8
+                    "type": "color",
+                    "key": 8,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-6"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 9
+                    "type": "color",
+                    "key": 9,
+                    "color": "#FF8389"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-6-7"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-7",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte plegable para celular",
+        "description": "Soporte plegable para celular📱, con facilidad de carga y ajustable doble✨",
+        "priceCost": 7000,
+        "salePrice": 10000,
+        "stock": null,
         "sku": "sku-7",
         "media": [
             {
@@ -975,41 +989,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-7-1"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#FEB1D1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-7-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-7-3"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-8",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Pizarrón/tablero magnético",
+        "description": "<p>Pizarrón/tablero magnético, incluye borrador y marcador, se adhiere a la nevera o a otras superficies metálicas🚪<p/><p>Las medidas del pizarrón: 14,8 cm x 21 cm</p><p>Ideal para organizar las rutinas o enseñanza en casa🏡<p/>",
+        "priceCost": 21600,
+        "salePrice": 30000,
+        "stock": 5,
         "sku": "sku-8",
         "media": [
             {
@@ -1051,12 +1068,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-9",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Mosaicos decorativos de espejo autoadhesivos ✨",
+        "description": "<p>Paquete de 24 unidades </p> <p>Medidas: 4cmx4cm</p><p>Adhieren fácilmente, excelente para decorar cualquier espacio🏡</p> ",
+        "priceCost": 7100,
+        "salePrice": 15000,
+        "stock": 8,
         "sku": "sku-9",
         "media": [
             {
@@ -1098,12 +1115,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-10",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cuchara de filtro y colador de aceite",
+        "description": "Cuchara de filtro de acero inoxidable multifunción, colador de aceite y alimentos fritos✨ muy fácil de usar",
+        "priceCost": 8000,
+        "salePrice": 15000,
+        "stock": 27,
         "sku": "sku-10",
         "media": [
             {
@@ -1145,12 +1162,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-11",
+        "category": 4,
+        "title": "Corrector de postura, masajeador moldeador de pecho, cinturón de espalda y hombros",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 6600,
+        "salePrice": 12000,
+        "stock": 13,
         "sku": "sku-11",
         "media": [
             {
@@ -1192,12 +1209,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-12",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Colgador/ soporte adherente transparente✨",
+        "description": "<p>Soporta suficiente peso y adhiere en la mayoría de superficies</p>",
+        "priceCost": 1000,
+        "salePrice": 2000,
+        "stock": 21,
         "sku": "sku-12",
         "media": [
             {
@@ -1245,12 +1262,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-13",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 4,
+        "title": "Corrector de postura ajustable",
+        "description": "<p>Corrector de postura ajustable, cinturón de soporte para espalda, columna vertebral, hombros y corrección de postura</p> <p>Unidades disponibles en talla S: 3</p>  </p> <p>Unidades disponibles en talla M: 2</p> </p> <p>Unidades disponibles en talla L: 3</p> </p> <p>Unidades disponibles en talla XL: 3</p>",
+        "priceCost": 24000,
+        "salePrice": 35000,
+        "stock": 11,
         "sku": "sku-13",
         "media": [
             {
@@ -1286,12 +1303,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-14",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Caja de luz LED plegable portátil para fotografía",
+        "description": "Caja de luz LED plegable portátil para fotografía, luz de estudio fotográfico ✨",
+        "priceCost": 30000,
+        "salePrice": 45000,
+        "stock": 4,
         "sku": "sku-14",
         "media": [
             {
@@ -1339,12 +1356,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-15",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Alfombrilla para mouse",
+        "description": "Afombrilla para mouse o Pad mouse con reposa muñecas✨",
+        "priceCost": 4200,
+        "salePrice": 700,
+        "stock": null,
         "sku": "sku-15",
         "media": [
             {
@@ -1398,68 +1415,74 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-15-1"
             },
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#48408D"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#48915F"
                 },
-                "stock": 0,
+                "stock": 4,
                 "sku": "sku-15-3"
             },
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#F5458C"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-4"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#CD1925"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-15-5"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 6
+                    "type": "color",
+                    "key": 6,
+                    "color": "#3E9AB7"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-15-6"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-16",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Delantal para afeitar",
+        "description": "Delantal para afeitar barba, perfecta para hacerlo uno mismo, se adhiere al espejo y de esta forma no se riega el pelo, muy práctico✨",
+        "priceCost": 9200,
+        "salePrice": 1500,
+        "stock": null,
         "sku": "sku-16",
         "media": [
             {
@@ -1483,32 +1506,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-16-1"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-16-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-17",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Encendedor eléctrico ✨ ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, la elección perfecta para aquellos que buscan calidad y comodidad. Este mini encendedor de inducción inteligente es delgado y ligero, con un chip inteligente integrado que garantiza protección contra sobrecarga y sobrecorriente.  </p> <p>Además, con su carga USB, se puede recargar en cualquier lugar, como un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos. </p> ",
+        "priceCost": 10400,
+        "salePrice": 20000,
+        "stock": null,
         "sku": "sku-17",
         "media": [
             {
@@ -1562,50 +1587,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 15,
                 "sku": "sku-17-1"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FF363B"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-17-2"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#1468FF"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-17-3"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#C78C11"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-17-4"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-18",
+        "category": 1,
+        "title": "Soporte colgante de pared, perfecto para celular📱",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 7600,
+        "salePrice": 10000,
+        "stock": 1,
         "sku": "sku-18",
         "media": [
             {
@@ -1623,12 +1652,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-19",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Encendedor eléctrico ✨ ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, la elección perfecta para aquellos que buscan calidad y comodidad. Este mini encendedor de inducción inteligente es delgado y ligero, con un chip inteligente integrado que garantiza protección contra sobrecarga y sobrecorriente.  </p> <p>Además, con su carga USB, se puede recargar en cualquier lugar, como un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos. </p> ",
+        "priceCost": 6200,
+        "salePrice": 15000,
+        "stock": null,
         "sku": "sku-19",
         "media": [
             {
@@ -1682,59 +1711,64 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rosado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFA8FF"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-1"
             },
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FF6FA0"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-19-3"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-4"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 5
+                    "type": "color",
+                    "key": 5,
+                    "color": "#AAF197"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-19-5"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-20",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Encendedor de arco eléctrico",
+        "description": "Encendedor de arco eléctrico recargable,  elegante y sencillo",
+        "priceCost": 31000,
+        "salePrice": 48000,
+        "stock": 1,
         "sku": "sku-20",
         "media": [
             {
@@ -1770,12 +1804,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-21",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Encendedor eléctrico ✨ ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, la elección perfecta para aquellos que buscan calidad y comodidad. Este mini encendedor de inducción inteligente es delgado y ligero, con un chip inteligente integrado que garantiza protección contra sobrecarga y sobrecorriente.  </p> <p>Además, con su carga USB, se puede recargar en cualquier lugar, como un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos. Fabricado con metal resistente, su tamaño compacto de 82x26x10mm lo convierte en el encendedor perfecto para llevar en el bolsillo o en el bolso.  </p> ",
+        "priceCost": 16000,
+        "salePrice": 30000,
+        "stock": null,
         "sku": "sku-21",
         "media": [
             {
@@ -1835,68 +1869,68 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Modelo A",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 5,
                 "sku": "sku-21-1"
             },
             {
-                "title": "",
+                "title": "Modelo B",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-21-2"
             },
             {
-                "title": "",
+                "title": "Modelo C",
                 "icon": {
                     "type": "image",
                     "key": 3
                 },
-                "stock": 0,
+                "stock": 4,
                 "sku": "sku-21-3"
             },
             {
-                "title": "",
+                "title": "Modelo D",
                 "icon": {
                     "type": "image",
                     "key": 4
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-21-4"
             },
             {
-                "title": "",
+                "title": "Modelo E",
                 "icon": {
                     "type": "image",
                     "key": 5
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-21-5"
             },
             {
-                "title": "",
+                "title": "Modelo F",
                 "icon": {
                     "type": "image",
                     "key": 6
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-21-6"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-22",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte de celular",
+        "description": "<p> Este soporte de gravedad para teléfono en coche es el accesorio perfecto para mantener su teléfono móvil seguro y accesible mientras conduce. Diseñado con un clip de montaje en rejilla de ventilación, este soporte no magnético se adapta a una variedad de teléfonos inteligentes. La gravedad del propio teléfono mantiene el soporte en su lugar, lo que lo hace fácil de usar y extremadamente seguro. Además, su diseño compacto lo hace ideal para el uso en coches de todos los tamaños. </p>  <p>Unidades disponibles en rosado: 2</p>  <p>Unidades disponibles en negro: 2</p> <p>Unidades disponibles en grises: 2</p>",
+        "priceCost": 8000,
+        "salePrice": 12000,
+        "stock": 6,
         "sku": "sku-22",
         "media": [
             {
@@ -1956,12 +1990,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-23",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Mini lámpara led",
+        "description": "Perfecta para dar luz al teclado de tu PC en lugares oscuros",
+        "priceCost": 4000,
+        "salePrice": 10000,
+        "stock": null,
         "sku": "sku-23",
         "media": [
             {
@@ -1991,32 +2025,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-23-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-23-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-24",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Encendedor eléctrico ✨ ",
+        "description": "<p>Encendedor eléctrico de plasma sin llama con sensor táctil inteligente, la elección perfecta para aquellos que buscan calidad y comodidad. Este mini encendedor de inducción inteligente es delgado y ligero, con un chip inteligente integrado que garantiza protección contra sobrecarga y sobrecorriente.  </p> <p>Además, con su carga USB, se puede recargar en cualquier lugar, como un banco de energía, portátil, coche, enchufe doméstico y otros dispositivos. Fabricado con metal resistente, su tamaño compacto de 82x26x10mm lo convierte en el encendedor perfecto para llevar en el bolsillo o en el bolso.  </p> ",
+        "priceCost": 17000,
+        "salePrice": 35000,
+        "stock": null,
         "sku": "sku-24",
         "media": [
             {
@@ -2070,41 +2106,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#0443E6"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-24-1"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-24-2"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#F0DB88"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-24-3"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-25",
+        "category": 2,
+        "title": "Tenedor multifuncional para cortar verduras y frutas",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 2,
         "sku": "sku-25",
         "media": [
             {
@@ -2134,12 +2173,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-26",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cuchillo para papas",
+        "description": "Cuchillo diseñado para papas🍟, en acero inoxidable y diseño único✨, También funciona para pelar diversidad de verduras",
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 2,
         "sku": "sku-26",
         "media": [
             {
@@ -2163,12 +2202,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-27",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 5,
+        "title": "Reloj con efecto 3D adhesivo",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-27",
         "media": [
             {
@@ -2186,12 +2225,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-28",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Soporte para toallas",
+        "description": "<p>-Soporte para toallas de baño, cocina, etc.</p><p>-La parte fija de la toalla está hecha de gel de sílice, que es resistente al calor y al frío y no es fácil de deformar.</p><p>-Instalación de pasta sin perforaciones, con pasta adhesiva para su uso, es decir, pegar y usar, y no habrá rastros en la pared después de quitar el adhesivo sin marcar.</p> <p>-Fuerte adhesión. </p>",
+        "priceCost": 5000,
+        "salePrice": 8000,
+        "stock": null,
         "sku": "sku-28",
         "media": [
             {
@@ -2251,50 +2290,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rasado",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#F5C6C0"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-1"
             },
             {
-                "title": "",
+                "title": "Blanco",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#FFFFFF"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#54838B"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-3"
             },
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#86C3CC"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-28-4"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-29",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Moldeador para huevos",
+        "description": "<p>Moldeador de distintos diseños para huevos.</p><p>Prepara huevos u otros alimentos de manera creativa con estos diseños</p><p>Material: Acero inoxidable.</p> ",
+        "priceCost": 4500,
+        "salePrice": 7000,
+        "stock": null,
         "sku": "sku-29",
         "media": [
             {
@@ -2312,32 +2355,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Círculo",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-29-1"
             },
             {
-                "title": "",
+                "title": "Corazón",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-29-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-30",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 3,
+        "title": "Pelador de cáscara huevos cocidos.",
+        "description": "<p>Olvídate de pelar los huevos a mano y con riesgo a quemarte😀</p><p>Ponga su huevo hervido dentro, agregue un poco de agua, luego cubra suavemente la tapa, agite unas pocas veces y vierta su huevo. Simplemente apretando, Tu huevo se deslizará de la cáscara. </p><p>Material: Plástico.</p><p>Tamaño: aproximadamente 9,8*6,3 cm</p>",
+        "priceCost": 19300,
+        "salePrice": 30000,
+        "stock": 3,
         "sku": "sku-30",
         "media": [
             {
@@ -2361,12 +2404,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-31",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Rallador de ajo",
+        "description": "<p>Rallador de ajo, prensa de ajo o jengibre.</p><p>Con él puedes despedirte fácilmente de esa pesada tarea de picar ajos.</p><p>Disponible solo color verde</p> ",
+        "priceCost": 7100,
+        "salePrice": 12000,
+        "stock": 2,
         "sku": "sku-31",
         "media": [
             {
@@ -2408,12 +2451,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-32",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cortador/rebanador de cebolla y hortalizas",
+        "description": "<p>Cortador/rebanador de hortalizas o verduras, con soporte Perfecto para un buen acabado al momento de cortar alimentos. El mango grande y cómodo está diseñado para evitar cortes y raspaduras.</p> ",
+        "priceCost": 6100,
+        "salePrice": 10000,
+        "stock": 3,
         "sku": "sku-32",
         "media": [
             {
@@ -2443,12 +2486,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-33",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Machacador de papas y verduras",
+        "description": "<p>Machacador para hacer puré, muy fácil de usar y eficaz</p> <p>Tamaño: 17,5x5,2 CM/6,7x2 pulgadas</p> <p>Material: acero inoxidable + plástico</p> ",
+        "priceCost": 8200,
+        "salePrice": 13000,
+        "stock": 2,
         "sku": "sku-33",
         "media": [
             {
@@ -2478,12 +2521,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-34",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Plantillas para diseñar corte de barba.",
+        "description": "<p>Paquete de 5 unidades, moldes para diseñar barba.</p><p>Crea el diseño de una barba asimétrica a la medida que desees.</p><p>Medidas: disponibles en las imágenes de muestra.</p><p>Material: plástico </p>",
+        "priceCost": 16000,
+        "salePrice": 24000,
+        "stock": null,
         "sku": "sku-34",
         "media": [
             {
@@ -2519,32 +2562,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-34-1"
             },
             {
-                "title": "",
+                "title": "Transparente",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-34-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-35",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Rebanador de hortalizas y pinza",
+        "description": "<p>Rebanador de hortalizas, y pinza para alimentos.</p><p>Ayuda a arreglar las frutas y verduras redondas, antideslizante</p><p>Protege los dedos de ser cortados, y también se puede utilizar como pinza de alimentos.</p> ",
+        "priceCost": 13000,
+        "salePrice": 19000,
+        "stock": 5,
         "sku": "sku-35",
         "media": [
             {
@@ -2592,12 +2635,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-36",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Plantilla moldeadora de barba",
+        "description": "<p>Peine moldeador de barba, perfecto para un buen diseño y fácil de usar. </p><p>Coloque la guía en la posición deseada y deje que su maquinilla de afeitar haga el resto.</p><p>Tamaño:11,37x17x0,5 cm</p><p>Material: Plástico</p>",
+        "priceCost": 8000,
+        "salePrice": 14000,
+        "stock": null,
         "sku": "sku-36",
         "media": [
             {
@@ -2627,32 +2670,32 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
                     "type": "image",
                     "key": 1
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-36-1"
             },
             {
-                "title": "",
+                "title": "Transparente",
                 "icon": {
                     "type": "image",
                     "key": 2
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-36-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-37",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Cepillo de limpieza para el hogar",
+        "description": "<p>Cepillo eliminador de pelo de mascotas, para sofá, cama, asiento, hueco de carro, salida de aire y más.</p><p>Eficaz para limpiar aquellos lugares difíciles de llegar.</p><p>Elimina rápidamente la pelusa, el pelo y el polvo de la superficie de la tela.</p><p>Material: PP + tela de felpa invertida</p><p>Tamaño: aproximadamente 14,5x10,1x3,3 cm</p>",
+        "priceCost": 7400,
+        "salePrice": 11000,
+        "stock": 2,
         "sku": "sku-37",
         "media": [
             {
@@ -2682,35 +2725,35 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-38",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 5,
+        "title": "Reloj con efecto 3D adhesivo",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-38",
         "media": [
             {
                 "localImage": true,
                 "type": "image",
-                "key": 1,
-                "url": "sku38A1"
+                "key": 2,
+                "url": "sku38A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 2,
-                "url": "sku38A2"
+                "key": 1,
+                "url": "sku38A1"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-39",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 5,
+        "title": "Reloj con efecto 3D adhesivo",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": null,
         "sku": "sku-39",
         "media": [
             {
@@ -2740,41 +2783,44 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#B21F06"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-39-1"
             },
             {
-                "title": "",
+                "title": "Dorado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#F8DC82"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-39-2"
             },
             {
-                "title": "",
+                "title": "Negro",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#000000"
                 },
-                "stock": 0,
+                "stock": 3,
                 "sku": "sku-39-3"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-40",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 5,
+        "title": "Reloj con efecto 3D adhesivo",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "priceCost": 18000,
+        "salePrice": 28000,
+        "stock": 1,
         "sku": "sku-40",
         "media": [
             {
@@ -2792,12 +2838,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-41",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 5,
+        "title": "Reloj con efecto 3D adhesivo",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "priceCost": 23000,
+        "salePrice": 35000,
+        "stock": null,
         "sku": "sku-41",
         "media": [
             {
@@ -2827,32 +2873,34 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Rojo",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#FC2E22"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-41-1"
             },
             {
-                "title": "",
+                "title": "Plateado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#C7C8C8"
                 },
-                "stock": 0,
+                "stock": 1,
                 "sku": "sku-41-2"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-42",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Pinza extractora de cocina",
+        "description": " <p>pinza extractora de cocina de acero inoxidable, una herramienta imprescindible para aquellos que buscan comodidad y facilidad al tratar con alimentos. Esta pinza es perfecta para extraer espinas de pescado y muchas cosas más, lo que la convierte en una adición valiosa para cualquier cocina. </p> <p> Su diseño de estilo pinzas es fácil de usar y facilita el deshuesado del pescado. Además, es portátil, lo que la hace ideal para llevar a picnics y otras salidas. Fabricada con acero inoxidable resistente a la corrosión, esta pinza extractora durará en ambientes húmedos y asegurará una experiencia de cocina sin problemas. </p> <p>Material: acero inoxidable</p> <p>Tipo: borde biselado</p> <p>Tamaño: 12cm</p>",
+        "priceCost": 6500,
+        "salePrice": 10000,
+        "stock": 3,
         "sku": "sku-42",
         "media": [
             {
@@ -2882,12 +2930,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-43",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Removedor de pelusa",
+        "description": " <p>Removedor de pelusa, eficaz para quitar la pelusa de la ropa, muebles y más, de manera rápida y fácil.</p> <p>Material: plástico</p> <p>Tamaño:6,2x1,7x5cm</p>",
+        "priceCost": 7800,
+        "salePrice": 11000,
+        "stock": 3,
         "sku": "sku-43",
         "media": [
             {
@@ -2911,12 +2959,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-44",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cortador en espiral",
+        "description": " <p>Cortador en espiral para frutas y verduras, crea divertidos diseños en tus recetas, muy fácil y rápido de usar</p> <p>Material: acero inoxidable</p> <p>Tamaño (aprox.): 3cm * 7,5 cm * 16,5 cm</p>  ",
+        "priceCost": 7100,
+        "salePrice": 13000,
+        "stock": 10,
         "sku": "sku-44",
         "media": [
             {
@@ -2946,12 +2994,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-45",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Molde para empanadas",
+        "description": "<p>Material: acero inoxidable</p>  <p>Medidas: 8.5cm x 13.6cm</p>",
+        "priceCost": 15000,
+        "salePrice": 20000,
+        "stock": 4,
         "sku": "sku-45",
         "media": [
             {
@@ -2987,12 +3035,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-46",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cuchillo/tijera multifuncional",
+        "description": " <p>Cuchillo/tijera de cocina, multifuncional</p> <p>Varios cuchillos en uno, en forma de tijera para cortar de manera más fácil los alimentos</p> <p>Cortador eficaz y rápido</p> <p>Material: acero inoxidable</p> <p>Medidas: Approx. 15 x 6x 1.5cm</p>",
+        "priceCost": 13500,
+        "salePrice": 20000,
+        "stock": 5,
         "sku": "sku-46",
         "media": [
             {
@@ -3034,12 +3082,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-47",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Adhesivo de luna luminosa en 3D para decoración de hogar",
+        "description": " <p>Adhesivo de luna luminosa con efecto 3D</p> <p>Perfecta para decorar habitación, ilumina en la oscuridad, se puede aplicar a cualquier superficie lisa y limpia, como paredes, puertas, ventanas, armario, etc</p><p>Material: Material de PVC</p><p>Medidas: 12cmx12cm</p>",
+        "priceCost": 4500,
+        "salePrice": 8000,
+        "stock": 3,
         "sku": "sku-47",
         "media": [
             {
@@ -3069,12 +3117,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-48",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Posavasos LED",
+        "description": "Posavasos LED decorativo para club nocturno, placa base de espuma plana que cambia de Color, 3 modos, funciona con pilas y tiene 4 luces.",
+        "priceCost": 5000,
+        "salePrice": 10000,
+        "stock": 10,
         "sku": "sku-48",
         "media": [
             {
@@ -3110,12 +3158,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-49",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Cuchillo en espiral",
+        "description": " <p>Cuchillo en espiral creativo para verduras y frutas multifuncional, para darle una forma creativa a las comidas✨</p>",
+        "priceCost": 3800,
+        "salePrice": 8000,
+        "stock": 14,
         "sku": "sku-49",
         "media": [
             {
@@ -3157,12 +3205,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-50",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Batidor semiautomático",
+        "description": " <Funciona>Lo presionas y da vueltas solo, facilitando las tareas de la cocina, funciona para múltiples elementos líquidos, como con huevos, masas o jugos.</p>",
+        "priceCost": 10700,
+        "salePrice": 16000,
+        "stock": 8,
         "sku": "sku-50",
         "media": [
             {
@@ -3216,12 +3264,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-51",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 2,
+        "title": "Rebanador de sandía",
+        "description": "Rebanador en forma círcular para cortar sandía u otras frutas y verduras.",
+        "priceCost": 10700,
+        "salePrice": 16000,
+        "stock": 3,
         "sku": "sku-51",
         "media": [
             {
@@ -3257,12 +3305,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-52",
+        "category": 2,
+        "title": "Guantes de goma para el lavado de la cocina",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 17000,
+        "salePrice": 25000,
+        "stock": null,
         "sku": "sku-52",
         "media": [
             {
@@ -3310,50 +3358,54 @@
         ],
         "variations": [
             {
-                "title": "",
+                "title": "Azul",
                 "icon": {
-                    "type": "image",
-                    "key": 1
+                    "type": "color",
+                    "key": 1,
+                    "color": "#56DEFE"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-1"
             },
             {
-                "title": "",
+                "title": "Morado",
                 "icon": {
-                    "type": "image",
-                    "key": 2
+                    "type": "color",
+                    "key": 2,
+                    "color": "#D4BBF7"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-2"
             },
             {
-                "title": "",
+                "title": "Verde",
                 "icon": {
-                    "type": "image",
-                    "key": 3
+                    "type": "color",
+                    "key": 3,
+                    "color": "#C9F2E2"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-3"
             },
             {
-                "title": "",
+                "title": "Rasado",
                 "icon": {
-                    "type": "image",
-                    "key": 4
+                    "type": "color",
+                    "key": 4,
+                    "color": "#FECFF1"
                 },
-                "stock": 0,
+                "stock": 2,
                 "sku": "sku-52-4"
             }
         ]
     },
     {
-        "category": 0,
-        "title": "sku-53",
-        "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "category": 1,
+        "title": "Borrador para limpieza de zapatos",
+        "description": "Este borrador de limpieza de zapatos es el accesorio imprescindible para mantener sus zapatos impecables en todo momento. Ideal para la limpieza de zapatos de gamuza, piel de oveja, tela de cuero mate y mucho más, este borrador es perfecto para el cuidado de sus zapatos. Este borrador también es ideal para zapatos blancos de goma, zapatillas y botas. Fácil de usar y altamente efectivo, este limpiador de zapatos es la solución perfecta para mantener sus zapatos en excelentes condiciones.",
+        "priceCost": 16000,
+        "salePrice": 23000,
+        "stock": 6,
         "sku": "sku-53",
         "media": [
             {
@@ -3377,12 +3429,12 @@
         ]
     },
     {
-        "category": 0,
-        "title": "sku-54",
+        "category": 2,
+        "title": "Prensador machacador triturador Ajos en acero inoxidable",
         "description": "",
-        "priceCost": 0,
-        "salePrice": 0,
-        "stock": 0,
+        "priceCost": 11700,
+        "salePrice": 15000,
+        "stock": 7,
         "sku": "sku-54",
         "media": [
             {
