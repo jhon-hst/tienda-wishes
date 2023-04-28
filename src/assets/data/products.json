@@ -35,7 +35,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku1A2A2"
+                "url": "sku1A2A2",
+                "main": true
             },
             {
                 "localImage": true,
@@ -417,7 +418,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku2Ab2"
+                "url": "sku2Ab2",
+                "main": true
             },
             {
                 "localImage": true,
@@ -517,19 +519,20 @@
             {
                 "youtube": true,
                 "type": "video",
-                "key": 2,
+                "key": 1,
                 "url": "https://www.youtube.com/embed/dXr5jd5uOI0"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 4,
-                "url": "sku3A1"
+                "key": 2,
+                "url": "sku3A1",
+                "main": true
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 4,
+                "key": 3,
                 "url": "sku3A2"
             },
             {
@@ -541,13 +544,13 @@
             {
                 "localImage": true,
                 "type": "image",
-                "key": 4,
+                "key": 5,
                 "url": "sku3A4"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 4,
+                "key": 6,
                 "url": "sku3A5"
             }
         ]
@@ -571,7 +574,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku4A1A1"
+                "url": "sku4A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -704,7 +708,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku5Ab1"
+                "url": "sku5Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -823,7 +828,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku6A5A1"
+                "url": "sku6A5A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -990,7 +996,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku7Ab1"
+                "url": "sku7Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1063,7 +1070,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku8A1"
+                "url": "sku8A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1116,7 +1124,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku9A1"
+                "url": "sku9A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1169,7 +1178,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku10A1"
+                "url": "sku10A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1222,7 +1232,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku11A1"
+                "url": "sku11A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1275,7 +1286,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku12A1"
+                "url": "sku12A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1340,7 +1352,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku13A2"
+                "url": "sku13A2",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1381,7 +1394,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku14A1"
+                "url": "sku14A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1476,7 +1490,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku15Ab1"
+                "url": "sku15Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1567,7 +1582,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku16A1A1"
+                "url": "sku16A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1654,7 +1670,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku17Ab2"
+                "url": "sku17Ab2",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1731,7 +1748,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku18A1"
+                "url": "sku18A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1790,7 +1808,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku19Ab1"
+                "url": "sku19Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1877,7 +1896,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku20A1"
+                "url": "sku20A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -1924,7 +1944,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku21A1A1"
+                "url": "sku21A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2057,7 +2078,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku22A1"
+                "url": "sku22A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2134,7 +2156,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku23A2A1"
+                "url": "sku23A2A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2191,7 +2214,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku24A1A1"
+                "url": "sku24A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2288,7 +2312,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku25A1"
+                "url": "sku25A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2329,7 +2354,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku26A1"
+                "url": "sku26A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2364,7 +2390,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku27A1"
+                "url": "sku27A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2417,7 +2444,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku28Ab1"
+                "url": "sku28Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2512,7 +2540,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku29A2A1"
+                "url": "sku29A2A1",
+                "main": true
             }
         ],
         "variations": [
@@ -2555,7 +2584,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku30A1"
+                "url": "sku30A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2590,7 +2620,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku31A1"
+                "url": "sku31A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2643,7 +2674,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku32A1"
+                "url": "sku32A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2684,7 +2716,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku33A1"
+                "url": "sku33A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2737,7 +2770,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku34Ab1"
+                "url": "sku34Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2792,7 +2826,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku35A1"
+                "url": "sku35A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2863,7 +2898,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku36Ab1"
+                "url": "sku36Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2912,7 +2948,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku37A1"
+                "url": "sku37A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2953,7 +2990,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku38A2"
+                "url": "sku38A2",
+                "main": true
             },
             {
                 "localImage": true,
@@ -2982,7 +3020,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku39A1A1"
+                "url": "sku39A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3055,7 +3094,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku40A1"
+                "url": "sku40A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3084,7 +3124,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku41A1A1"
+                "url": "sku41A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3147,7 +3188,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku42A1"
+                "url": "sku42A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3188,7 +3230,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku43A1"
+                "url": "sku43A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3223,7 +3266,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku44A1"
+                "url": "sku44A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3264,7 +3308,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku45A1"
+                "url": "sku45A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3311,7 +3356,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku46A1"
+                "url": "sku46A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3364,7 +3410,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku47A1"
+                "url": "sku47A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3405,7 +3452,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku48A1"
+                "url": "sku48A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3452,7 +3500,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku49A1"
+                "url": "sku49A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3505,7 +3554,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku50A1"
+                "url": "sku50A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3570,7 +3620,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku51A1"
+                "url": "sku51A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3641,7 +3692,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku52Ab1"
+                "url": "sku52Ab1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3718,7 +3770,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku53A1"
+                "url": "sku53A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3753,7 +3806,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku54A1"
+                "url": "sku54A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3800,7 +3854,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku55A1"
+                "url": "sku55A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3913,7 +3968,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 12,
-                "url": "sku56A6A1"
+                "url": "sku56A6A1",
+                "main": true
             },
             {
                 "localImage": true,

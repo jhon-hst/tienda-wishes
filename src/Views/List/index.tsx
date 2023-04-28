@@ -8,7 +8,7 @@ import Products from "./Products";
 
 export default function List() {
   return (
-    <main className="container pb-5">
+    <main className="container pb-5 ">
       <div className="header">
         <div className="auction-container">
           <img src={granRemate} className="auction-img" />

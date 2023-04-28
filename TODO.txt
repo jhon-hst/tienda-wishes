@@ -12,13 +12,19 @@ cargar productos
 Separar los productos en paginas
 
 colocar las images principales
-disminuir la calidad de las imagenes
-agregar zoom a las images
+Styles
+    - List productos
+    - product
+        - un tamaño maximo de las images
+        - go back button
+
 Crear components "preguntas frecuentes"
 hacer la suma de todos los productos
-Colocar id a los títulos de los productos
-Loading a las imágenes 
 QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
 verificar las cantidades
 agregar las preguntas frecuentes
+
 crear excel
+disminuir la calidad de las imagenes
+agregar zoom a las images
+Loading a las imágenes 
