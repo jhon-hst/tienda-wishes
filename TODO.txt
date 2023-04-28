@@ -9,8 +9,9 @@ cargar productos
     - Agregar las pegatinas de luces (SKU-55)
     - Agregar cuchara (SKU-56)
     - Agreagar los video de youtube en JSON
-
 Separar los productos en paginas
+
+colocar las images principales
 disminuir la calidad de las imagenes
 agregar zoom a las images
 Crear components "preguntas frecuentes"
@@ -18,11 +19,6 @@ hacer la suma de todos los productos
 Colocar id a los títulos de los productos
 Loading a las imágenes 
 QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
-
-
-agregar las imagenes del header
-desde el swiper del header redirect a el producto al que se le click
 verificar las cantidades
-
 agregar las preguntas frecuentes
 crear excel

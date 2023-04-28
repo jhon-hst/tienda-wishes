@@ -1,9 +1,5 @@
-import type { Swiper as SwiperType } from "swiper";
-
-import Images from "../../assets/images";
-import { MediaType, ProductType } from "../../types";
+import { ProductType } from "../../types";
 import { useEffect, useState } from "react";
-import { VariationType } from "../../types";
 
 export default function Prices({ product }: { product: ProductType }) {
   const [unitsAvailable, setUnitsAvailable] = useState(0);

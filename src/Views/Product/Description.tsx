@@ -1,8 +1,8 @@
+import { useState } from "react";
 import type { Swiper as SwiperType } from "swiper";
 
 import Images from "../../assets/images";
 import { MediaType, ProductType } from "../../types";
-import { useState } from "react";
 import { VariationType } from "../../types";
 import Prices from "./Prices";
 

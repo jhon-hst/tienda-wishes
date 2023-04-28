@@ -123,6 +123,10 @@ body {
   font-weight: bold;
 }
 
+.modal-body{
+  background-color: #FFFFFF;
+}
+
 @media (min-width: 992px) { 
   .auction-container{
     justify-content: center;
