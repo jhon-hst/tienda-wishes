@@ -10,13 +10,13 @@ cargar productos
     - Agregar cuchara (SKU-56)
     - Agreagar los video de youtube en JSON
 Separar los productos en paginas
-
 colocar las images principales
 Styles
     - List productos
     - product
         - un tamaño maximo de las images
         - go back button
+
 
 Crear components "preguntas frecuentes"
 hacer la suma de todos los productos

@@ -122,6 +122,19 @@ body {
   font-weight: bold;
 }
 
+.container-goback-button{
+  background-color: #f6f4f4;
+}
+
+.container-goback-button:hover{
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.container-goback-button > .material-symbols-outlined{
+  font-size: 3em;
+}
+
 @media (min-width: 992px) { 
   .auction-container{
     justify-content: center;

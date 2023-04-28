@@ -23,7 +23,7 @@ export default function Product() {
     <>
       {product && (
         <section className="row  mx-1 justify-content-center align-items-center">
-          <div onClick={() => onGoBack()} style={{ backgroundColor: "red" }}>
+          <div onClick={() => onGoBack()} className="container-goback-button">
             <span className="material-symbols-outlined">
               keyboard_backspace
             </span>
