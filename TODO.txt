@@ -8,10 +8,9 @@ cargar productos
     - Agregar title y description a los video de youtube
     - Agregar las pegatinas de luces (SKU-55)
     - Agregar cuchara (SKU-56)
-    
     - Agreagar los video de youtube en JSON
 
-
+Separar los productos en paginas
 disminuir la calidad de las imagenes
 agregar zoom a las images
 Crear components "preguntas frecuentes"

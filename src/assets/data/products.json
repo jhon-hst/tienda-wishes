@@ -562,51 +562,57 @@
         "sku": "sku-4",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku4A1A1"
+                "url": "https://www.youtube.com/embed/xGvtMh6aWbg"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku4A2A1"
+                "url": "sku4A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku4A2A2"
+                "url": "sku4A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku4A3A1"
+                "url": "sku4A2A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku4A3A2"
+                "url": "sku4A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku4Ab1"
+                "url": "sku4A3A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku4Ab3"
+                "url": "sku4Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku4Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku4Ab4"
             }
         ],
@@ -615,7 +621,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#A3E5D1"
                 },
                 "stock": 1,
@@ -625,7 +631,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#000000"
                 },
                 "stock": 1,
@@ -635,7 +641,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#FFFFFF"
                 },
                 "stock": 1,
@@ -653,63 +659,69 @@
         "sku": "sku-5",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku5A1A1"
+                "url": "https://www.youtube.com/embed/aB0aVNRwat0"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku5A1A2"
+                "url": "sku5A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku5A1A3"
+                "url": "sku5A1A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku5A2A1"
+                "url": "sku5A1A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku5A3A1"
+                "url": "sku5A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku5A4A1"
+                "url": "sku5A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku5Ab1"
+                "url": "sku5A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku5Ab2"
+                "url": "sku5Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
-                "url": "sku5Ab3"
+                "url": "sku5Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 10,
+                "url": "sku5Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 11,
                 "url": "sku5Ab4"
             }
         ],
@@ -718,7 +730,7 @@
                 "title": "Rosado",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#EBD1DD"
                 },
                 "stock": 2,
@@ -728,7 +740,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -738,7 +750,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 5,
+                    "key": 6,
                     "color": "#98D7D1"
                 },
                 "stock": 2,
@@ -748,7 +760,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 6,
+                    "key": 7,
                     "color": "#FFFFFF"
                 },
                 "stock": 2,
@@ -766,93 +778,99 @@
         "sku": "sku-6",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku6A1A1"
+                "url": "https://www.youtube.com/embed/ej22vfzYOQM"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku6A1A2"
+                "url": "sku6A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku6A1A3"
+                "url": "sku6A1A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku6A2A1"
+                "url": "sku6A1A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku6A3A1"
+                "url": "sku6A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku6A4A1"
+                "url": "sku6A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku6A5A1"
+                "url": "sku6A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku6A6A1"
+                "url": "sku6A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
-                "url": "sku6A7A1"
+                "url": "sku6A6A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 10,
-                "url": "sku6Ab1"
+                "url": "sku6A7A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 11,
-                "url": "sku6Ab2"
+                "url": "sku6Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 12,
-                "url": "sku6Ab3"
+                "url": "sku6Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 13,
-                "url": "sku6Ab4"
+                "url": "sku6Ab3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 14,
-                "url": "sku6Ab5"
+                "url": "sku6Ab4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 15,
+                "url": "sku6Ab5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 16,
                 "url": "sku6Ab6"
             }
         ],
@@ -861,7 +879,7 @@
                 "title": "Morado",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#592374"
                 },
                 "stock": 2,
@@ -871,7 +889,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#3494D2"
                 },
                 "stock": 2,
@@ -881,7 +899,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 5,
+                    "key": 6,
                     "color": "#FE3533"
                 },
                 "stock": 2,
@@ -891,7 +909,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 6,
+                    "key": 7,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -901,7 +919,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 7,
+                    "key": 8,
                     "color": "#00FA02"
                 },
                 "stock": 2,
@@ -911,7 +929,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 8,
+                    "key": 9,
                     "color": "#FFFFFF"
                 },
                 "stock": 2,
@@ -921,7 +939,7 @@
                 "title": "Rosado",
                 "icon": {
                     "type": "color",
-                    "key": 9,
+                    "key": 10,
                     "color": "#FF8389"
                 },
                 "stock": 2,
@@ -939,51 +957,57 @@
         "sku": "sku-7",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku7A1A1"
+                "url": "https://www.youtube.com/embed/OcUp-RB21KM"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku7A1A2"
+                "url": "sku7A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku7A2A1"
+                "url": "sku7A1A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku7A3A1"
+                "url": "sku7A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku7Ab1"
+                "url": "sku7A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku7Ab2"
+                "url": "sku7Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku7Ab3"
+                "url": "sku7Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku7Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku7Ab4"
             }
         ],
@@ -992,7 +1016,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#FFFFFF"
                 },
                 "stock": 1,
@@ -1002,7 +1026,7 @@
                 "title": "Rosado",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#FEB1D1"
                 },
                 "stock": 2,
@@ -1012,7 +1036,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#000000"
                 },
                 "stock": 1,
@@ -1030,39 +1054,45 @@
         "sku": "sku-8",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku8A1"
+                "url": "https://www.youtube.com/embed/7dhpmrsK_mE"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku8A2"
+                "url": "sku8A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku8A3"
+                "url": "sku8A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku8A4"
+                "url": "sku8A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku8A5"
+                "url": "sku8A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku8A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku8A6"
             }
         ]
@@ -1077,39 +1107,45 @@
         "sku": "sku-9",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku9A1"
+                "url": "https://www.youtube.com/embed/FJed_tGJti8"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku9A2"
+                "url": "sku9A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku9A3"
+                "url": "sku9A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku9A4"
+                "url": "sku9A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku9A5"
+                "url": "sku9A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku9A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku9A6"
             }
         ]
@@ -1124,39 +1160,45 @@
         "sku": "sku-10",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku10A1"
+                "url": "https://www.youtube.com/embed/4Jkp97lajzE"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku10A2"
+                "url": "sku10A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku10A3"
+                "url": "sku10A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku10A4"
+                "url": "sku10A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku10A5"
+                "url": "sku10A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku10A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku10A6"
             }
         ]
@@ -1171,39 +1213,45 @@
         "sku": "sku-11",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku11A1"
+                "url": "https://www.youtube.com/embed/GUilBi2kyVY"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku11A2"
+                "url": "sku11A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku11A3"
+                "url": "sku11A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku11A4"
+                "url": "sku11A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku11A5"
+                "url": "sku11A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku11A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku11A6"
             }
         ]
@@ -1218,45 +1266,51 @@
         "sku": "sku-12",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku12A1"
+                "url": "https://www.youtube.com/embed/MhHVfS2U6tk"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku12A2"
+                "url": "sku12A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku12A3"
+                "url": "sku12A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku12A4"
+                "url": "sku12A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku12A5"
+                "url": "sku12A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku12A6"
+                "url": "sku12A5"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
+                "url": "sku12A6"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
                 "url": "sku12A7"
             }
         ]
@@ -1271,33 +1325,39 @@
         "sku": "sku-13",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku13A1"
+                "url": "https://www.youtube.com/embed/OW1yJvYe3cs"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku13A2"
+                "url": "sku13A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku13A3"
+                "url": "sku13A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku13A4"
+                "url": "sku13A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku13A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku13A5"
             }
         ]
@@ -1312,45 +1372,51 @@
         "sku": "sku-14",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku14A1"
+                "url": "https://www.youtube.com/embed/GI31tsGxrWw"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku14A2"
+                "url": "sku14A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku14A3"
+                "url": "sku14A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku14A4"
+                "url": "sku14A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku14A5"
+                "url": "sku14A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku14A6"
+                "url": "sku14A5"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
+                "url": "sku14A6"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
                 "url": "sku14A7"
             }
         ]
@@ -1365,51 +1431,57 @@
         "sku": "sku-15",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku15A1A1"
+                "url": "https://www.youtube.com/embed/Kl9HGoVsCuw"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku15A2A1"
+                "url": "sku15A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku15A3A1"
+                "url": "sku15A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku15A4A1"
+                "url": "sku15A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku15A5A1"
+                "url": "sku15A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku15A6A1"
+                "url": "sku15A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku15Ab1"
+                "url": "sku15A6A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku15Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku15Ab2"
             }
         ],
@@ -1418,7 +1490,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -1428,7 +1500,7 @@
                 "title": "Morado",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#48408D"
                 },
                 "stock": 3,
@@ -1438,7 +1510,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#48915F"
                 },
                 "stock": 4,
@@ -1448,7 +1520,7 @@
                 "title": "Rosado",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#F5458C"
                 },
                 "stock": 3,
@@ -1458,7 +1530,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 5,
+                    "key": 6,
                     "color": "#CD1925"
                 },
                 "stock": 3,
@@ -1468,7 +1540,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 6,
+                    "key": 7,
                     "color": "#3E9AB7"
                 },
                 "stock": 2,
@@ -1486,21 +1558,27 @@
         "sku": "sku-16",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku16A1A1"
+                "url": "https://www.youtube.com/embed/A8dCJWCawNY"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku16A2A1"
+                "url": "sku16A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
+                "url": "sku16A2A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
                 "url": "sku16Ab1"
             }
         ],
@@ -1509,7 +1587,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#000000"
                 },
                 "stock": 1,
@@ -1519,7 +1597,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#FFFFFF"
                 },
                 "stock": 2,
@@ -1537,51 +1615,57 @@
         "sku": "sku-17",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku17A1A1"
+                "url": "https://www.youtube.com/embed/S75aSZnLYdo"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku17A2A1"
+                "url": "sku17A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku17A3A1"
+                "url": "sku17A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku17A4A1"
+                "url": "sku17A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku17Ab1"
+                "url": "sku17A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku17Ab2"
+                "url": "sku17Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku17Ab3"
+                "url": "sku17Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku17Ab3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku17Ab4"
             }
         ],
@@ -1590,7 +1674,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#000000"
                 },
                 "stock": 15,
@@ -1600,7 +1684,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#FF363B"
                 },
                 "stock": 2,
@@ -1610,7 +1694,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#1468FF"
                 },
                 "stock": 1,
@@ -1620,7 +1704,7 @@
                 "title": "Dorado",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#C78C11"
                 },
                 "stock": 1,
@@ -1638,15 +1722,21 @@
         "sku": "sku-18",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku18A1"
+                "url": "https://www.youtube.com/embed/avye7vB2gpo"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
+                "url": "sku18A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
                 "url": "sku18A2"
             }
         ]
@@ -1661,51 +1751,57 @@
         "sku": "sku-19",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku19A1A1"
+                "url": "https://www.youtube.com/embed/jBSwhOOV46Y"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku19A2A1"
+                "url": "sku19A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku19A3A1"
+                "url": "sku19A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku19A4A1"
+                "url": "sku19A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku19A5A1"
+                "url": "sku19A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku19Ab1"
+                "url": "sku19A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku19Ab2"
+                "url": "sku19Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku19Ab2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku19Ab3"
             }
         ],
@@ -1714,7 +1810,7 @@
                 "title": "Rosado",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#FFA8FF"
                 },
                 "stock": 3,
@@ -1724,7 +1820,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#FF6FA0"
                 },
                 "stock": 3,
@@ -1734,7 +1830,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -1744,7 +1840,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#FFFFFF"
                 },
                 "stock": 3,
@@ -1754,7 +1850,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 5,
+                    "key": 6,
                     "color": "#AAF197"
                 },
                 "stock": 3,
@@ -1772,33 +1868,39 @@
         "sku": "sku-20",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku20A1"
+                "url": "https://www.youtube.com/embed/N5BkRCORP6w"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku20A2"
+                "url": "sku20A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku20A3"
+                "url": "sku20A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku20A4"
+                "url": "sku20A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku20A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku20A5"
             }
         ]
@@ -1813,57 +1915,63 @@
         "sku": "sku-21",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku21A1A1"
+                "url": "https://www.youtube.com/embed/r5Wz7dN2GIE"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku21A2A1"
+                "url": "sku21A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku21A3A1"
+                "url": "sku21A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku21A4A1"
+                "url": "sku21A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku21A5A1"
+                "url": "sku21A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku21A6A1"
+                "url": "sku21A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku21Ab1"
+                "url": "sku21A6A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku21Ab2"
+                "url": "sku21Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
+                "url": "sku21Ab2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 10,
                 "url": "sku21Ab3"
             }
         ],
@@ -1872,7 +1980,7 @@
                 "title": "Modelo A",
                 "icon": {
                     "type": "image",
-                    "key": 1
+                    "key": 2
                 },
                 "stock": 5,
                 "sku": "sku-21-1"
@@ -1881,7 +1989,7 @@
                 "title": "Modelo B",
                 "icon": {
                     "type": "image",
-                    "key": 2
+                    "key": 3
                 },
                 "stock": 3,
                 "sku": "sku-21-2"
@@ -1890,7 +1998,7 @@
                 "title": "Modelo C",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 4
                 },
                 "stock": 4,
                 "sku": "sku-21-3"
@@ -1899,7 +2007,7 @@
                 "title": "Modelo D",
                 "icon": {
                     "type": "image",
-                    "key": 4
+                    "key": 5
                 },
                 "stock": 2,
                 "sku": "sku-21-4"
@@ -1908,7 +2016,7 @@
                 "title": "Modelo E",
                 "icon": {
                     "type": "image",
-                    "key": 5
+                    "key": 6
                 },
                 "stock": 2,
                 "sku": "sku-21-5"
@@ -1917,7 +2025,7 @@
                 "title": "Modelo F",
                 "icon": {
                     "type": "image",
-                    "key": 6
+                    "key": 7
                 },
                 "stock": 1,
                 "sku": "sku-21-6"
@@ -1934,57 +2042,69 @@
         "sku": "sku-22",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku22A1"
+                "url": "https://www.youtube.com/embed/IFCxJNabTMk"
             },
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 2,
-                "url": "sku22A2"
+                "url": "https://www.youtube.com/embed/HikQy3ECsWg"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku22A3"
+                "url": "sku22A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku22A4"
+                "url": "sku22A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku22A5"
+                "url": "sku22A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku22A6"
+                "url": "sku22A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku22A7"
+                "url": "sku22A5"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku22A8"
+                "url": "sku22A6"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
+                "url": "sku22A7"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 10,
+                "url": "sku22A8"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 11,
                 "url": "sku22A9"
             }
         ]
@@ -1999,27 +2119,33 @@
         "sku": "sku-23",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku23A1A1"
+                "url": "https://www.youtube.com/embed/bP5BA7Io3WI"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku23A2A1"
+                "url": "sku23A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku23Ab1"
+                "url": "sku23A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku23Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku23Ab2"
             }
         ],
@@ -2028,7 +2154,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#FFFFFF"
                 },
                 "stock": 2,
@@ -2038,7 +2164,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -2056,51 +2182,57 @@
         "sku": "sku-24",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku24A1A1"
+                "url": "https://www.youtube.com/embed/JiIO3_dImYk"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku24A2A1"
+                "url": "sku24A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku24A3A1"
+                "url": "sku24A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku24Ab1"
+                "url": "sku24A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku24Ab2"
+                "url": "sku24Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku24Ab3"
+                "url": "sku24Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku24Ab4"
+                "url": "sku24Ab3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku24Ab4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku24Ab5"
             }
         ],
@@ -2109,7 +2241,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#0443E6"
                 },
                 "stock": 2,
@@ -2119,7 +2251,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#000000"
                 },
                 "stock": 2,
@@ -2129,7 +2261,7 @@
                 "title": "Dorado",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#F0DB88"
                 },
                 "stock": 3,
@@ -2147,27 +2279,33 @@
         "sku": "sku-25",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku25A1"
+                "url": "https://www.youtube.com/embed/dYS9y7GrEgM"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku25A2"
+                "url": "sku25A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku25A3"
+                "url": "sku25A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku25A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku25A4"
             }
         ]
@@ -2182,21 +2320,27 @@
         "sku": "sku-26",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku26A1"
+                "url": "https://www.youtube.com/embed/oq8MXtXMcR8"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku26A2"
+                "url": "sku26A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
+                "url": "sku26A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
                 "url": "sku26A3"
             }
         ]
@@ -2211,15 +2355,21 @@
         "sku": "sku-27",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku27A1"
+                "url": "https://www.youtube.com/embed/uzSMwDwIuig"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
+                "url": "sku27A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
                 "url": "sku27A2"
             }
         ]
@@ -2234,57 +2384,63 @@
         "sku": "sku-28",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku28A1A1"
+                "url": "https://www.youtube.com/embed/pK8uMwK7m4s"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku28A2A1"
+                "url": "sku28A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku28A3A1"
+                "url": "sku28A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku28A4A1"
+                "url": "sku28A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku28Ab1"
+                "url": "sku28A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku28Ab2"
+                "url": "sku28Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku28Ab3"
+                "url": "sku28Ab2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku28Ab4"
+                "url": "sku28Ab3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
+                "url": "sku28Ab4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 10,
                 "url": "sku28Ab5"
             }
         ],
@@ -2293,7 +2449,7 @@
                 "title": "Rasado",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#F5C6C0"
                 },
                 "stock": 2,
@@ -2303,7 +2459,7 @@
                 "title": "Blanco",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#FFFFFF"
                 },
                 "stock": 2,
@@ -2313,7 +2469,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#54838B"
                 },
                 "stock": 2,
@@ -2323,7 +2479,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#86C3CC"
                 },
                 "stock": 2,
@@ -2341,15 +2497,21 @@
         "sku": "sku-29",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku29A1A1"
+                "url": "https://www.youtube.com/embed/Yy4K7fQW-Ds"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
+                "url": "sku29A1A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
                 "url": "sku29A2A1"
             }
         ],
@@ -2358,7 +2520,7 @@
                 "title": "Círculo",
                 "icon": {
                     "type": "image",
-                    "key": 1
+                    "key": 2
                 },
                 "stock": 2,
                 "sku": "sku-29-1"
@@ -2367,7 +2529,7 @@
                 "title": "Corazón",
                 "icon": {
                     "type": "image",
-                    "key": 2
+                    "key": 3
                 },
                 "stock": 1,
                 "sku": "sku-29-2"
@@ -2384,21 +2546,27 @@
         "sku": "sku-30",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku30A1"
+                "url": "https://www.youtube.com/embed/wXnAJkvk6U8"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku30A2"
+                "url": "sku30A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
+                "url": "sku30A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
                 "url": "sku30A3"
             }
         ]
@@ -2413,39 +2581,45 @@
         "sku": "sku-31",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku31A1"
+                "url": "https://www.youtube.com/embed/zIfzYQzu4iM"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku31A2"
+                "url": "sku31A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku31A3"
+                "url": "sku31A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku31A4"
+                "url": "sku31A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku31A5"
+                "url": "sku31A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku31A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku31A6"
             }
         ]
@@ -2460,27 +2634,33 @@
         "sku": "sku-32",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku32A1"
+                "url": "https://www.youtube.com/embed/4MjOZHjyOGU"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku32A2"
+                "url": "sku32A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku32A3"
+                "url": "sku32A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku32A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku32A4"
             }
         ]
@@ -2495,27 +2675,33 @@
         "sku": "sku-33",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku33A1"
+                "url": "https://www.youtube.com/embed/1aIoNYR0hnY"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku33A2"
+                "url": "sku33A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku33A3"
+                "url": "sku33A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku33A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku33A4"
             }
         ]
@@ -2530,33 +2716,39 @@
         "sku": "sku-34",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku34A1A1"
+                "url": "https://www.youtube.com/embed/pX1AokrWOlQ"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku34A2A1"
+                "url": "sku34A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku34Ab1"
+                "url": "sku34A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku34Ab2"
+                "url": "sku34Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku34Ab2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku34Ab3"
             }
         ],
@@ -2565,7 +2757,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "image",
-                    "key": 1
+                    "key": 2
                 },
                 "stock": 1,
                 "sku": "sku-34-1"
@@ -2574,7 +2766,7 @@
                 "title": "Transparente",
                 "icon": {
                     "type": "image",
-                    "key": 2
+                    "key": 3
                 },
                 "stock": 1,
                 "sku": "sku-34-2"
@@ -2591,45 +2783,51 @@
         "sku": "sku-35",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku35A1"
+                "url": "https://www.youtube.com/embed/4s16KBy5ZNo"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku35A2"
+                "url": "sku35A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku35A3"
+                "url": "sku35A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku35A4"
+                "url": "sku35A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku35A5"
+                "url": "sku35A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku35A6"
+                "url": "sku35A5"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
+                "url": "sku35A6"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
                 "url": "sku35A7"
             }
         ]
@@ -2644,27 +2842,33 @@
         "sku": "sku-36",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku36A1A1"
+                "url": "https://www.youtube.com/embed/f15Zs1EuI0g"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku36A2A1"
+                "url": "sku36A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku36Ab1"
+                "url": "sku36A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku36Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku36Ab2"
             }
         ],
@@ -2673,7 +2877,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "image",
-                    "key": 1
+                    "key": 2
                 },
                 "stock": 1,
                 "sku": "sku-36-1"
@@ -2682,7 +2886,7 @@
                 "title": "Transparente",
                 "icon": {
                     "type": "image",
-                    "key": 2
+                    "key": 3
                 },
                 "stock": 2,
                 "sku": "sku-36-2"
@@ -2699,27 +2903,33 @@
         "sku": "sku-37",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku37A1"
+                "url": "https://www.youtube.com/embed/RaWUY-AyGuU"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku37A2"
+                "url": "sku37A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku37A3"
+                "url": "sku37A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku37A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku37A4"
             }
         ]
@@ -2734,15 +2944,21 @@
         "sku": "sku-38",
         "media": [
             {
+                "youtube": true,
+                "type": "video",
+                "key": 1,
+                "url": "https://www.youtube.com/embed/ZUXJ6KsWnw8"
+            },
+            {
                 "localImage": true,
                 "type": "image",
-                "key": 2,
+                "key": 3,
                 "url": "sku38A2"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 1,
+                "key": 2,
                 "url": "sku38A1"
             }
         ]
@@ -2757,27 +2973,33 @@
         "sku": "sku-39",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku39A1A1"
+                "url": "https://www.youtube.com/embed/rIUK8Y1D6aU"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku39A2A1"
+                "url": "sku39A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku39A3A1"
+                "url": "sku39A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku39A3A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku39Ab1"
             }
         ],
@@ -2786,7 +3008,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#B21F06"
                 },
                 "stock": 2,
@@ -2796,7 +3018,7 @@
                 "title": "Dorado",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#F8DC82"
                 },
                 "stock": 1,
@@ -2806,7 +3028,7 @@
                 "title": "Negro",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#000000"
                 },
                 "stock": 3,
@@ -2824,15 +3046,21 @@
         "sku": "sku-40",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku40A1"
+                "url": "https://www.youtube.com/embed/RXksMzj2e70"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
+                "url": "sku40A1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 3,
                 "url": "sku40A2"
             }
         ]
@@ -2847,27 +3075,33 @@
         "sku": "sku-41",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku41A1A1"
+                "url": "https://www.youtube.com/embed/VmUdO-pXH5Y"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku41A2A1"
+                "url": "sku41A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku41Ab1"
+                "url": "sku41A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku41Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku41Ab2"
             }
         ],
@@ -2876,7 +3110,7 @@
                 "title": "Rojo",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#FC2E22"
                 },
                 "stock": 2,
@@ -2886,7 +3120,7 @@
                 "title": "Plateado",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#C7C8C8"
                 },
                 "stock": 1,
@@ -2904,27 +3138,33 @@
         "sku": "sku-42",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku42A1"
+                "url": "https://www.youtube.com/embed/LOJ5oAOFUfI"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku42A2"
+                "url": "sku42A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku42A3"
+                "url": "sku42A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku42A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku42A4"
             }
         ]
@@ -2939,21 +3179,27 @@
         "sku": "sku-43",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku43A1"
+                "url": "https://www.youtube.com/embed/nkMPa4LJzK8"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku43A2"
+                "url": "sku43A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
+                "url": "sku43A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
                 "url": "sku43A3"
             }
         ]
@@ -2968,27 +3214,33 @@
         "sku": "sku-44",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku44A1"
+                "url": "https://www.youtube.com/embed/JXcs2VHmKCk"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku44A2"
+                "url": "sku44A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku44A3"
+                "url": "sku44A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku44A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku44A4"
             }
         ]
@@ -3003,33 +3255,39 @@
         "sku": "sku-45",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku45A1"
+                "url": "https://www.youtube.com/embed/IlFhReoE5g4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku45A2"
+                "url": "sku45A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku45A3"
+                "url": "sku45A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku45A4"
+                "url": "sku45A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku45A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku45A5"
             }
         ]
@@ -3044,39 +3302,45 @@
         "sku": "sku-46",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku46A1"
+                "url": "https://www.youtube.com/embed/_aMDKgVVKtk"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku46A2"
+                "url": "sku46A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku46A3"
+                "url": "sku46A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku46A4"
+                "url": "sku46A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku46A5"
+                "url": "sku46A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku46A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku46A6"
             }
         ]
@@ -3091,27 +3355,33 @@
         "sku": "sku-47",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku47A1"
+                "url": "https://www.youtube.com/embed/ZJt-1D8tb-w"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku47A2"
+                "url": "sku47A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku47A3"
+                "url": "sku47A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku47A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku47A4"
             }
         ]
@@ -3126,33 +3396,39 @@
         "sku": "sku-48",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku48A1"
+                "url": "https://www.youtube.com/embed/uXhTT2Sw_1w"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku48A2"
+                "url": "sku48A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku48A3"
+                "url": "sku48A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku48A4"
+                "url": "sku48A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku48A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku48A5"
             }
         ]
@@ -3167,39 +3443,45 @@
         "sku": "sku-49",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku49A1"
+                "url": "https://www.youtube.com/embed/yKNc63_IkUo"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku49A2"
+                "url": "sku49A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku49A3"
+                "url": "sku49A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku49A4"
+                "url": "sku49A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku49A5"
+                "url": "sku49A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
+                "url": "sku49A5"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 7,
                 "url": "sku49A6"
             }
         ]
@@ -3214,51 +3496,57 @@
         "sku": "sku-50",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku50A1"
+                "url": "https://www.youtube.com/embed/Al5aGe4T_E4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku50A2"
+                "url": "sku50A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku50A3"
+                "url": "sku50A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku50A4"
+                "url": "sku50A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku50A5"
+                "url": "sku50A4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku50A6"
+                "url": "sku50A5"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku50A7"
+                "url": "sku50A6"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
+                "url": "sku50A7"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 9,
                 "url": "sku50A8"
             }
         ]
@@ -3273,33 +3561,39 @@
         "sku": "sku-51",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku51A1"
+                "url": "https://www.youtube.com/embed/TT1fyqq0QRs"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku51A2"
+                "url": "sku51A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku51A3"
+                "url": "sku51A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku51A4"
+                "url": "sku51A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku51A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku51A5"
             }
         ]
@@ -3314,45 +3608,51 @@
         "sku": "sku-52",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku52A1A1"
+                "url": "https://www.youtube.com/embed/oh4ohmzxzYE"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku52A2A1"
+                "url": "sku52A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku52A3A1"
+                "url": "sku52A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku52A4A1"
+                "url": "sku52A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku52Ab1"
+                "url": "sku52A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku52Ab2"
+                "url": "sku52Ab1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
+                "url": "sku52Ab2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 8,
                 "url": "sku52Ab3"
             }
         ],
@@ -3361,7 +3661,7 @@
                 "title": "Azul",
                 "icon": {
                     "type": "color",
-                    "key": 1,
+                    "key": 2,
                     "color": "#56DEFE"
                 },
                 "stock": 2,
@@ -3371,7 +3671,7 @@
                 "title": "Morado",
                 "icon": {
                     "type": "color",
-                    "key": 2,
+                    "key": 3,
                     "color": "#D4BBF7"
                 },
                 "stock": 2,
@@ -3381,7 +3681,7 @@
                 "title": "Verde",
                 "icon": {
                     "type": "color",
-                    "key": 3,
+                    "key": 4,
                     "color": "#C9F2E2"
                 },
                 "stock": 2,
@@ -3391,7 +3691,7 @@
                 "title": "Rasado",
                 "icon": {
                     "type": "color",
-                    "key": 4,
+                    "key": 5,
                     "color": "#FECFF1"
                 },
                 "stock": 2,
@@ -3409,21 +3709,27 @@
         "sku": "sku-53",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku53A1"
+                "url": "https://www.youtube.com/embed/jgEV5NYTJtY"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku53A2"
+                "url": "sku53A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
+                "url": "sku53A2"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 4,
                 "url": "sku53A3"
             }
         ]
@@ -3438,33 +3744,39 @@
         "sku": "sku-54",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku54A1"
+                "url": "https://www.youtube.com/embed/mLZhw0phbWk"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku54A2"
+                "url": "sku54A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku54A3"
+                "url": "sku54A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku54A4"
+                "url": "sku54A3"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
+                "url": "sku54A4"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 6,
                 "url": "sku54A5"
             }
         ]
@@ -3479,39 +3791,45 @@
         "sku": "sku-55",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku55A1"
+                "url": "https://www.youtube.com/embed/aA3znZxDbmM"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku55A2"
+                "url": "sku55A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku55A3"
+                "url": "sku55A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
+                "url": "sku55A3"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 5,
                 "url": "sku55A4"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 6,
                 "url": "sku55A5"
             },
             {
                 "localImage": true,
                 "type": "image",
-                "key": 5,
+                "key": 6,
                 "url": "sku55A5"
             }
         ]
@@ -3526,183 +3844,189 @@
         "sku": "sku-56",
         "media": [
             {
-                "localImage": true,
-                "type": "image",
+                "youtube": true,
+                "type": "video",
                 "key": 1,
-                "url": "sku56A1A1"
+                "url": "https://www.youtube.com/embed/djrBIhcCak4"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku56A1A2"
+                "url": "sku56A1A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 3,
-                "url": "sku56A2A1"
+                "url": "sku56A1A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 4,
-                "url": "sku56A2A2"
+                "url": "sku56A2A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 5,
-                "url": "sku56A3A1"
+                "url": "sku56A2A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 6,
-                "url": "sku56A3A2"
+                "url": "sku56A3A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 7,
-                "url": "sku56A4A1"
+                "url": "sku56A3A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 8,
-                "url": "sku56A4A2"
+                "url": "sku56A4A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 9,
-                "url": "sku56A5A1"
+                "url": "sku56A4A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 10,
-                "url": "sku56A5A2"
+                "url": "sku56A5A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 11,
-                "url": "sku56A6A1"
+                "url": "sku56A5A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 12,
-                "url": "sku56A6A2"
+                "url": "sku56A6A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 13,
-                "url": "sku56A7A1"
+                "url": "sku56A6A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 14,
-                "url": "sku56A7A2"
+                "url": "sku56A7A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 15,
-                "url": "sku56A8A1"
+                "url": "sku56A7A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 16,
-                "url": "sku56A8A2"
+                "url": "sku56A8A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 17,
-                "url": "sku56A9A1"
+                "url": "sku56A8A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 18,
-                "url": "sku56A9A2"
+                "url": "sku56A9A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 19,
-                "url": "sku56A10A1"
+                "url": "sku56A9A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 20,
-                "url": "sku56A10A2"
+                "url": "sku56A10A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 21,
-                "url": "sku56A11A1"
+                "url": "sku56A10A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 22,
-                "url": "sku56A11A2"
+                "url": "sku56A11A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 23,
-                "url": "sku56A12A1"
+                "url": "sku56A11A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 24,
-                "url": "sku56A12A2"
+                "url": "sku56A12A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 25,
-                "url": "sku56A13A1"
+                "url": "sku56A12A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 26,
-                "url": "sku56A13A2"
+                "url": "sku56A13A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 27,
-                "url": "sku56A14A1"
+                "url": "sku56A13A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 28,
-                "url": "sku56A14A2"
+                "url": "sku56A14A1"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 29,
-                "url": "sku56Ab1"
+                "url": "sku56A14A2"
             },
             {
                 "localImage": true,
                 "type": "image",
                 "key": 30,
+                "url": "sku56Ab1"
+            },
+            {
+                "localImage": true,
+                "type": "image",
+                "key": 31,
                 "url": "sku56Ab2"
             }
         ],
@@ -3711,7 +4035,7 @@
                 "title": "el modelo 1",
                 "icon": {
                     "type": "image",
-                    "key": 1
+                    "key": 2
                 },
                 "stock": 3,
                 "sku": "sku-56-1"
@@ -3720,7 +4044,7 @@
                 "title": "el modelo 2",
                 "icon": {
                     "type": "image",
-                    "key": 3
+                    "key": 4
                 },
                 "stock": 3,
                 "sku": "sku-56-2"
@@ -3729,7 +4053,7 @@
                 "title": "el modelo 3",
                 "icon": {
                     "type": "image",
-                    "key": 5
+                    "key": 6
                 },
                 "stock": 2,
                 "sku": "sku-56-3"
@@ -3738,7 +4062,7 @@
                 "title": "el modelo 4",
                 "icon": {
                     "type": "image",
-                    "key": 7
+                    "key": 8
                 },
                 "stock": 5,
                 "sku": "sku-56-4"
@@ -3747,7 +4071,7 @@
                 "title": "el modelo 5",
                 "icon": {
                     "type": "image",
-                    "key": 9
+                    "key": 10
                 },
                 "stock": 3,
                 "sku": "sku-56-5"
@@ -3756,7 +4080,7 @@
                 "title": "el modelo 6",
                 "icon": {
                     "type": "image",
-                    "key": 11
+                    "key": 12
                 },
                 "stock": 2,
                 "sku": "sku-56-6"
@@ -3765,7 +4089,7 @@
                 "title": "el modelo 7",
                 "icon": {
                     "type": "image",
-                    "key": 13
+                    "key": 14
                 },
                 "stock": 3,
                 "sku": "sku-56-7"
@@ -3774,7 +4098,7 @@
                 "title": "el modelo 8",
                 "icon": {
                     "type": "image",
-                    "key": 15
+                    "key": 16
                 },
                 "stock": 3,
                 "sku": "sku-56-8"
@@ -3783,7 +4107,7 @@
                 "title": "el modelo 9",
                 "icon": {
                     "type": "image",
-                    "key": 17
+                    "key": 18
                 },
                 "stock": 3,
                 "sku": "sku-56-9"
@@ -3792,7 +4116,7 @@
                 "title": "el modelo 10",
                 "icon": {
                     "type": "image",
-                    "key": 19
+                    "key": 20
                 },
                 "stock": 3,
                 "sku": "sku-56-10"
@@ -3801,7 +4125,7 @@
                 "title": "el modelo 11",
                 "icon": {
                     "type": "image",
-                    "key": 21
+                    "key": 22
                 },
                 "stock": 3,
                 "sku": "sku-56-11"
@@ -3810,7 +4134,7 @@
                 "title": "el modelo 12",
                 "icon": {
                     "type": "image",
-                    "key": 23
+                    "key": 24
                 },
                 "stock": 3,
                 "sku": "sku-56-12"
@@ -3819,7 +4143,7 @@
                 "title": "el modelo 13",
                 "icon": {
                     "type": "image",
-                    "key": 25
+                    "key": 26
                 },
                 "stock": 3,
                 "sku": "sku-56-13"
@@ -3828,7 +4152,7 @@
                 "title": "el modelo 14",
                 "icon": {
                     "type": "image",
-                    "key": 27
+                    "key": 28
                 },
                 "stock": 3,
                 "sku": "sku-56-14"
