@@ -1,9 +1,11 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import type { Swiper as SwiperType } from "swiper";
-
 import { Pagination, Navigation } from "swiper";
+import Zoom from "react-medium-image-zoom";
+
 import Images from "../../assets/images";
 import { ProductType } from "../../types";
+import "react-medium-image-zoom/dist/styles.css";
 
 export default function SwiperImages({
   setSwiperInstance,
@@ -28,10 +30,12 @@ export default function SwiperImages({
         <SwiperSlide key={ind}>
           <div className="">
             {media.type === "image" && (
-              <img
-                className="swiper-product-img"
-                src={media.localImage ? Images[media.url] : media.url}
-              />
+              <Zoom>
+                <img
+                  className="swiper-product-img"
+                  src={media.localImage ? Images[media.url] : media.url}
+                />
+              </Zoom>
             )}
             {media.type === "video" && !media.youtube && (
               <video
