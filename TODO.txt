@@ -22,7 +22,6 @@ Crear components "preguntas frecuentes"
 hacer la suma de todos los productos
 QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
 
-
 agregar el texto promocional
 agregar las preguntas frecuentes
 verificar las cantidades
