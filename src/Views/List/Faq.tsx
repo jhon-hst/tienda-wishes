@@ -11,7 +11,7 @@ export default function Faq() {
             aria-expanded="true"
             aria-controls="collapseOne"
           >
-            Accordion Item #1
+            ¿Dónde está ubicado?
           </button>
         </h2>
         <div
@@ -20,16 +20,7 @@ export default function Faq() {
           aria-labelledby="headingOne"
           data-bs-parent="#accordionExample"
         >
-          <div className="accordion-body">
-            <strong>This is the first item's accordion body.</strong> It is
-            shown by default, until the collapse plugin adds the appropriate
-            classes that we use to style each element. These classes control the
-            overall appearance, as well as the showing and hiding via CSS
-            transitions. You can modify any of this with custom CSS or
-            overriding our default variables. It's also worth noting that just
-            about any HTML can go within the <code>.accordion-body</code>,
-            though the transition does limit overflow.
-          </div>
+          <div className="accordion-body">Piedecuesta - Santander</div>
         </div>
       </div>
       <div className="accordion-item">
@@ -42,7 +33,7 @@ export default function Faq() {
             aria-expanded="false"
             aria-controls="collapseTwo"
           >
-            Accordion Item #2
+            ¿Los productos tienen garantía?
           </button>
         </h2>
         <div
@@ -52,14 +43,10 @@ export default function Faq() {
           data-bs-parent="#accordionExample"
         >
           <div className="accordion-body">
-            <strong>This is the second item's accordion body.</strong> It is
-            hidden by default, until the collapse plugin adds the appropriate
-            classes that we use to style each element. These classes control the
-            overall appearance, as well as the showing and hiding via CSS
-            transitions. You can modify any of this with custom CSS or
-            overriding our default variables. It's also worth noting that just
-            about any HTML can go within the <code>.accordion-body</code>,
-            though the transition does limit overflow.
+            Entendemos la importancia de la garantía en tus compras, sin
+            embargo, como se trata de productos de un emprendimiento que decidí
+            no continuar, no cuentan con garantía. Pero te aseguramos que son de
+            excelente calidad y están en perfecto estado.
           </div>
         </div>
       </div>
@@ -73,7 +60,7 @@ export default function Faq() {
             aria-expanded="false"
             aria-controls="collapseThree"
           >
-            Accordion Item #3
+            ¿Los precios son negociables?
           </button>
         </h2>
         <div
@@ -83,14 +70,88 @@ export default function Faq() {
           data-bs-parent="#accordionExample"
         >
           <div className="accordion-body">
-            <strong>This is the third item's accordion body.</strong> It is
-            hidden by default, until the collapse plugin adds the appropriate
-            classes that we use to style each element. These classes control the
-            overall appearance, as well as the showing and hiding via CSS
-            transitions. You can modify any of this with custom CSS or
-            overriding our default variables. It's also worth noting that just
-            about any HTML can go within the <code>.accordion-body</code>,
-            though the transition does limit overflow.
+            Lamentablemente no podemos ofrecer precios diferentes a los
+            publicados, ya que están ajustados al costo. Sin embargo, si decides
+            comprar todo el lote, podemos hacer una rebaja especial de
+            $3.500.000.
+          </div>
+        </div>
+      </div>
+      <div className="accordion-item">
+        <h2 className="accordion-header" id="headingFour">
+          <button
+            className="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapseFour"
+            aria-expanded="false"
+            aria-controls="collapseFour"
+          >
+            ¿Puedo agendar una cita para ver los productos?
+          </button>
+        </h2>
+        <div
+          id="collapseFour"
+          className="accordion-collapse collapse"
+          aria-labelledby="headingFour"
+          data-bs-parent="#accordionExample"
+        >
+          <div className="accordion-body">
+            ¡Por supuesto! Nos encantaría mostrarte los productos en persona.
+            Escríbenos por Facebook o WhatsApp para coordinar una cita que te
+            acomode.
+          </div>
+        </div>
+      </div>
+      <div className="accordion-item">
+        <h2 className="accordion-header" id="headingFive">
+          <button
+            className="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapseFive"
+            aria-expanded="false"
+            aria-controls="collapseFive"
+          >
+            ¿Puedo comprar solo algunos productos en específico?
+          </button>
+        </h2>
+        <div
+          id="collapseFive"
+          className="accordion-collapse collapse"
+          aria-labelledby="headingFive"
+          data-bs-parent="#accordionExample"
+        >
+          <div className="accordion-body">
+            ¡Claro que sí! Puedes comprar los productos que necesites, sin
+            embargo, el precio de venta será el costo original de cada producto.
+            La oferta de $3.500.000 es exclusiva para la compra de todo el lote.
+          </div>
+        </div>
+      </div>
+      <div className="accordion-item">
+        <h2 className="accordion-header" id="headingSix">
+          <button
+            className="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapseSix"
+            aria-expanded="false"
+            aria-controls="collapseSix"
+          >
+            ¿En qué estado se encuentran los productos?
+          </button>
+        </h2>
+        <div
+          id="collapseSix"
+          className="accordion-collapse collapse"
+          aria-labelledby="headingSix"
+          data-bs-parent="#accordionExample"
+        >
+          <div className="accordion-body">
+            Los productos se encuentran en perfectas condiciones, completamente
+            nuevos. Hemos cuidado cada detalle para ofrecerte productos de alta
+            calidad a precios accesibles.
           </div>
         </div>
       </div>

@@ -21,10 +21,18 @@ Styles
 Crear components "preguntas frecuentes"
 hacer la suma de todos los productos
 QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
-
 agregar el texto promocional
 agregar las preguntas frecuentes
-verificar las cantidades
+
+verificar las cantidades y precios
+anuncio en facebook
+
+mensaje predefinido para facebook: 
+¡Hola! Muchas gracias por escribirme. Si te interesa conocer más acerca de los productos que tengo en oferta, te invito a visitar mi página web mitienda.com. Allí encontrarás los precios, cantidades y una descripción detallada de cada producto. También te recomiendo ver el video de cada producto, donde podrás ver más detalles y asegurarte de como es el producto.
+
+Te sugiero revisar las preguntas frecuentes al final de la página, ya que es posible que ahí encuentres respuestas a algunas de tus dudas. Si aún tienes alguna pregunta, no dudes en escribirme de nuevo, estaré encantado de ayudarte. ¡Gracias por tu interés!
+
+
 
 disminuir la calidad de las imagenes
 agregar zoom a las images

@@ -38,18 +38,33 @@ const amounts = ListProducts.reduce(
 );
 
 export default function List() {
+  const convertPrice = (params: number) => {
+    return params
+      .toLocaleString("es-ES", {
+        style: "currency",
+        currency: "COL",
+        minimumFractionDigits: 0,
+      })
+      .replace("COL", "");
+  };
   return (
     <main className="container pb-5 ">
       <div className="header">
         <div className="auction-container">
           <img src={granRemate} className="auction-img" />
         </div>
-        <h1 className="header-title">Gram remate de productos</h1>
+        <h1 className="header-title">
+          ¡Liquidación de productos de alta calidad a precio de costo!
+        </h1>
         <p className="header-description">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe
-          similique facilis neque repudiandae aperiam blanditiis, id reiciendis
-          harum quo eius fugiat ipsa rem accusantium voluptatibus aliquid
-          expedita, cum quidem. Dolore.
+          Aprovecha esta oportunidad única para adquirir productos de decoración
+          para el hogar, encendedores eléctricos y productos de cocina de
+          calidad a precio de costo. ¡Todos los productos sumados tienen un
+          valor de {convertPrice(amounts.AllPriceCost)}, pero puedes comprarlos
+          por solo {convertPrice(3500000)} si adquieres todo el lote! Si se
+          vendieran al precio sugerido, su valor alcanzaría los{" "}
+          {convertPrice(amounts.AllSalePrice)}. ¡No dejes pasar esta oferta
+          increíble y adquiere productos de calidad a precios imbatibles!
         </p>
       </div>
       <Products />
