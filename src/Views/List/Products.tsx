@@ -7,7 +7,7 @@ const ListProducts: Array<ProductType> = ProductsList;
 export default function Products() {
   return (
     <>
-      <div className="row g-5 px-3 px-lg-0 ">
+      <div className="row g-5 px-3 px-lg-0 mx-0">
         {ListProducts.map((product, index) => (
           <CardProduct product={product} key={index} />
         ))}

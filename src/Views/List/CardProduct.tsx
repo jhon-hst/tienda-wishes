@@ -10,7 +10,7 @@ export default function CardProduct({ product }: { product: ProductType }) {
     <>
       {mainImage && (
         <div
-          className="col-12 col-md-6 col-lg-3 px-1"
+          className="col-12 col-md-6 col-lg-3 px-0"
           onClick={() => navigate(`product/${product.sku}`)}
         >
           <div className="card-list-product">
