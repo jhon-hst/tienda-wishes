@@ -19,12 +19,14 @@ Styles
 
 
 Crear components "preguntas frecuentes"
-QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
 hacer la suma de todos los productos
-verificar las cantidades
-agregar las preguntas frecuentes
+QUITAR EL 20 UNID EN LA PRIMERA FOTO DE sku-12
 
-crear excel
 disminuir la calidad de las imagenes
 agregar zoom a las images
-Loading a las imágenes 
+Loading a las imágenes
+crear excel
+
+agregar el texto promocional
+agregar las preguntas frecuentes
+verificar las cantidades

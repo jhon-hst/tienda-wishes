@@ -1,4 +1,4 @@
-import sku12A1 from "../../../assets/images/sku-12/sku-12-1.jpeg";
+import sku12A1 from "../../../assets/images/sku-12/sku-12-1.jpg";
 import sku12A2 from "../../../assets/images/sku-12/sku-12-2.jpeg";
 import sku12A3 from "../../../assets/images/sku-12/sku-12-3.jpeg";
 import sku12A4 from "../../../assets/images/sku-12/sku-12-4.jpeg";

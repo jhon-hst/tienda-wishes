@@ -6,6 +6,36 @@ import "swiper/css/zoom";
 import granRemate from "../../assets/gran-remate.jpeg";
 import Products from "./Products";
 import Faq from "./Faq";
+import ProductsList from "../../assets/data/products.json";
+import { ProductType, VariationType } from "../../types";
+
+const ListProducts: Array<ProductType> = ProductsList;
+
+type amountsType = {
+  AllPriceCost: number;
+  AllSalePrice: number;
+};
+
+const amounts = ListProducts.reduce(
+  (accu: amountsType, product: ProductType) => {
+    let productStock = product.stock ?? 0;
+
+    if (product.variations?.length) {
+      productStock = product.variations.reduce(
+        (acc: number, variation: VariationType) => acc + variation.stock,
+        0
+      );
+    }
+    return {
+      AllPriceCost: productStock * product.priceCost + accu.AllPriceCost,
+      AllSalePrice: productStock * product.salePrice + accu.AllSalePrice,
+    };
+  },
+  {
+    AllPriceCost: 0,
+    AllSalePrice: 0,
+  }
+);
 
 export default function List() {
   return (
