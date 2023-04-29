@@ -5,6 +5,7 @@ import "swiper/css/zoom";
 
 import granRemate from "../../assets/gran-remate.jpeg";
 import Products from "./Products";
+import Faq from "./Faq";
 
 export default function List() {
   return (
@@ -22,6 +23,7 @@ export default function List() {
         </p>
       </div>
       <Products />
+      <Faq />
     </main>
   );
 }
