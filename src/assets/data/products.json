@@ -513,7 +513,7 @@
         "description": "<p> Tamaño: 21,5 cm X 6cm </p><p>Peso neto: 50g </p><p>Características: </p><p>1. Este cuchillo es fuerte, duradero y tiene una hoja afilada. </p><p> 2. Ideal para hacer bordes elegantes y cortes de gofres en varias frutas y verduras. </p>",
         "priceCost": 8300,
         "salePrice": 15000,
-        "stock": 27,
+        "stock": 26,
         "sku": "sku-3",
         "media": [
             {
@@ -912,11 +912,11 @@
                 "sku": "sku-6-3"
             },
             {
-                "title": "Negro",
+                "title": "Naranja",
                 "icon": {
                     "type": "color",
                     "key": 7,
-                    "color": "#000000"
+                    "color": "#F79501"
                 },
                 "stock": 2,
                 "sku": "sku-6-4"
@@ -1040,11 +1040,11 @@
                 "sku": "sku-7-2"
             },
             {
-                "title": "Negro",
+                "title": "Verde",
                 "icon": {
                     "type": "color",
                     "key": 5,
-                    "color": "#000000"
+                    "color": "#8CF396"
                 },
                 "stock": 1,
                 "sku": "sku-7-3"
@@ -1057,7 +1057,7 @@
         "description": "<p>Pizarrón/tablero magnético, incluye borrador y marcador, se adhiere a la nevera o a otras superficies metálicas🚪<p/><p>Las medidas del pizarrón: 14,8 cm x 21 cm</p><p>Ideal para organizar las rutinas o enseñanza en casa🏡<p/>",
         "priceCost": 21600,
         "salePrice": 30000,
-        "stock": 5,
+        "stock": 4,
         "sku": "sku-8",
         "media": [
             {
@@ -1165,7 +1165,7 @@
         "description": "Cuchara de filtro de acero inoxidable multifunción, colador de aceite y alimentos fritos✨ muy fácil de usar",
         "priceCost": 8000,
         "salePrice": 15000,
-        "stock": 27,
+        "stock": 26,
         "sku": "sku-10",
         "media": [
             {
@@ -1508,7 +1508,7 @@
                     "key": 2,
                     "color": "#000000"
                 },
-                "stock": 2,
+                "stock": 1,
                 "sku": "sku-15-1"
             },
             {
@@ -1694,7 +1694,7 @@
                     "key": 2,
                     "color": "#000000"
                 },
-                "stock": 15,
+                "stock": 10,
                 "sku": "sku-17-1"
             },
             {
@@ -2374,7 +2374,7 @@
     {
         "category": 5,
         "title": "Reloj con efecto 3D adhesivo",
-        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> <p>Tipo: 2, Color: Rojo</p>",
         "priceCost": 18000,
         "salePrice": 28000,
         "stock": 1,
@@ -2915,7 +2915,7 @@
                     "type": "image",
                     "key": 2
                 },
-                "stock": 1,
+                "stock": 2,
                 "sku": "sku-36-1"
             },
             {
@@ -2924,7 +2924,7 @@
                     "type": "image",
                     "key": 3
                 },
-                "stock": 2,
+                "stock": 1,
                 "sku": "sku-36-2"
             }
         ]
@@ -2974,7 +2974,7 @@
     {
         "category": 5,
         "title": "Reloj con efecto 3D adhesivo",
-        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> <p>Tipo: 5</p>",
         "priceCost": 18000,
         "salePrice": 28000,
         "stock": 1,
@@ -3004,7 +3004,7 @@
     {
         "category": 5,
         "title": "Reloj con efecto 3D adhesivo",
-        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p><p>Tipo: 6</p> ",
         "priceCost": 18000,
         "salePrice": 28000,
         "stock": null,
@@ -3078,7 +3078,7 @@
     {
         "category": 5,
         "title": "Reloj con efecto 3D adhesivo",
-        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> <p>Tipo: 6, Color: Rojo</p>",
         "priceCost": 18000,
         "salePrice": 28000,
         "stock": 1,
@@ -3108,7 +3108,7 @@
     {
         "category": 5,
         "title": "Reloj con efecto 3D adhesivo",
-        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> ",
+        "description": " <p>Reloj adhesivo, con efecto 3D, para decoración del hogar</p> <p>Diámetro de todo el conjunto: aproximadamente 40cm, (Se puede ajustar libremente entre 30-60cm)</p> <p>Se puede aplicar en paredes, puertas, ventanas, armarios, plástico, metal, azulejos, etc.</p> <p>Material acrílico respetuoso con el medio ambiente a prueba de agua.</p> <p>Manecilla de las horas: 8,8 cm, manecilla de los minutos: 11cm</p> <p>Batería: 1 pila AA (no incluida)</p> <p>Tipo: 8</p>",
         "priceCost": 23000,
         "salePrice": 35000,
         "stock": null,
@@ -3154,7 +3154,7 @@
                     "key": 2,
                     "color": "#FC2E22"
                 },
-                "stock": 2,
+                "stock": 3,
                 "sku": "sku-41-1"
             },
             {
@@ -3397,7 +3397,7 @@
         "description": " <p>Adhesivo de luna luminosa con efecto 3D</p> <p>Perfecta para decorar habitación, ilumina en la oscuridad, se puede aplicar a cualquier superficie lisa y limpia, como paredes, puertas, ventanas, armario, etc</p><p>Material: Material de PVC</p><p>Medidas: 12cmx12cm</p>",
         "priceCost": 4500,
         "salePrice": 8000,
-        "stock": 3,
+        "stock": 2,
         "sku": "sku-47",
         "media": [
             {
@@ -3541,7 +3541,7 @@
         "description": " <Funciona>Lo presionas y da vueltas solo, facilitando las tareas de la cocina, funciona para múltiples elementos líquidos, como con huevos, masas o jugos.</p>",
         "priceCost": 10700,
         "salePrice": 16000,
-        "stock": 8,
+        "stock": 7,
         "sku": "sku-50",
         "media": [
             {
@@ -3757,7 +3757,7 @@
         "description": "Este borrador de limpieza de zapatos es el accesorio imprescindible para mantener sus zapatos impecables en todo momento. Ideal para la limpieza de zapatos de gamuza, piel de oveja, tela de cuero mate y mucho más, este borrador es perfecto para el cuidado de sus zapatos. Este borrador también es ideal para zapatos blancos de goma, zapatillas y botas. Fácil de usar y altamente efectivo, este limpiador de zapatos es la solución perfecta para mantener sus zapatos en excelentes condiciones.",
         "priceCost": 16000,
         "salePrice": 23000,
-        "stock": 6,
+        "stock": 7,
         "sku": "sku-53",
         "media": [
             {
@@ -3793,7 +3793,7 @@
         "description": "",
         "priceCost": 11700,
         "salePrice": 15000,
-        "stock": 7,
+        "stock": 6,
         "sku": "sku-54",
         "media": [
             {
@@ -3908,7 +3908,8 @@
                 "localImage": true,
                 "type": "image",
                 "key": 2,
-                "url": "sku56A1A1"
+                "url": "sku56A1A1",
+                "main": true
             },
             {
                 "localImage": true,
@@ -3968,8 +3969,7 @@
                 "localImage": true,
                 "type": "image",
                 "key": 12,
-                "url": "sku56A6A1",
-                "main": true
+                "url": "sku56A6A1"
             },
             {
                 "localImage": true,
@@ -4064,18 +4064,6 @@
             {
                 "localImage": true,
                 "type": "image",
-                "key": 28,
-                "url": "sku56A14A1"
-            },
-            {
-                "localImage": true,
-                "type": "image",
-                "key": 29,
-                "url": "sku56A14A2"
-            },
-            {
-                "localImage": true,
-                "type": "image",
                 "key": 30,
                 "url": "sku56Ab1"
             },
@@ -4138,7 +4126,7 @@
                     "type": "image",
                     "key": 12
                 },
-                "stock": 2,
+                "stock": 3,
                 "sku": "sku-56-6"
             },
             {
@@ -4203,15 +4191,6 @@
                 },
                 "stock": 3,
                 "sku": "sku-56-13"
-            },
-            {
-                "title": "el modelo 14",
-                "icon": {
-                    "type": "image",
-                    "key": 28
-                },
-                "stock": 3,
-                "sku": "sku-56-14"
             }
         ]
     }

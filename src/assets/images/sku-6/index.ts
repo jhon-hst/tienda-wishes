@@ -5,7 +5,7 @@ import sku6A1A2 from "../../../assets/images/sku-6/sku-6-1-2.jpeg";
 import sku6A1A3 from "../../../assets/images/sku-6/sku-6-1-3.jpg";
 import sku6A2A1 from "../../../assets/images/sku-6/sku-6-2-1.jpg";
 import sku6A3A1 from "../../../assets/images/sku-6/sku-6-3-1.jpg";
-import sku6A4A1 from "../../../assets/images/sku-6/sku-6-4-1.jpg";
+import sku6A4A1 from "../../../assets/images/sku-6/sku-6-4-1.jpeg";
 import sku6A5A1 from "../../../assets/images/sku-6/sku-6-5-1.jpg";
 import sku6A6A1 from "../../../assets/images/sku-6/sku-6-6-1.jpg";
 import sku6A7A1 from "../../../assets/images/sku-6/sku-6-7-1.jpg";
