@@ -738,7 +738,7 @@
                     "key": 2,
                     "color": "#EBD1DD"
                 },
-                "stock": 2,
+                "stock": 1,
                 "sku": "sku-5-1"
             },
             {
@@ -758,7 +758,7 @@
                     "key": 6,
                     "color": "#98D7D1"
                 },
-                "stock": 2,
+                "stock": 0,
                 "sku": "sku-5-3"
             },
             {
