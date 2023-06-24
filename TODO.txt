@@ -34,5 +34,6 @@ Loading a las imágenes
 crear excel
 
 mensaje predefinido para facebook: 
-¡Hola! Muchas gracias por escribirme. Si te interesa conocer más acerca de los productos que tengo en oferta, te invito a visitar mi página web mitienda.com. Allí encontrarás los precios, cantidades y una descripción detallada de cada producto. También te recomiendo ver el video de cada producto, donde podrás ver más detalles y asegurarte de como es el producto.
+¡Hola! Muchas gracias por escribirme. Si te interesa conocer más acerca de los productos que tengo en oferta, te invito a visitar esta página: https://jhon-hst.github.io/tienda-wishes/ donde subí todos los productos. Allí encontrarás los precios, cantidades y una descripción detallada de cada producto. También te recomiendo ver el video de cada producto, donde podrás ver más detalles y asegurarte de como es el producto.
+
 Te sugiero revisar las preguntas frecuentes al final de la página, ya que es posible que ahí encuentres respuestas a algunas de tus dudas. Si aún tienes alguna pregunta, no dudes en escribirme de nuevo, estaré encantado de ayudarte. ¡Gracias por tu interés!

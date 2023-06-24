@@ -38,6 +38,12 @@ export default function Prices({ product }: { product: ProductType }) {
       </div>
       <div className="card-price">
         <p>
+          Precio:
+          <span> $ {convertPrice(suggestedSalePricePerUnit)}</span>
+        </p>
+      </div>
+      {/* <div className="card-price">
+        <p>
           Precio costo por unidad:{" "}
           <span> $ {convertPrice(priceCostPerUnit)}</span>
         </p>
@@ -62,7 +68,7 @@ export default function Prices({ product }: { product: ProductType }) {
             $ {convertPrice(suggestedSalePricePerUnit * unitsAvailable)}
           </span>
         </p>
-      </div>
+      </div> */}
     </>
   );
 }

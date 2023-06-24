@@ -53,7 +53,7 @@ export default function List() {
         <div className="auction-container">
           <img src={granRemate} className="auction-img" />
         </div>
-        <h1 className="header-title">
+        {/* <h1 className="header-title">
           ¡Liquidación de productos de alta calidad a precio de costo!
         </h1>
         <p className="header-description">
@@ -65,10 +65,10 @@ export default function List() {
           vendieran al precio sugerido, su valor alcanzaría los{" "}
           {convertPrice(amounts.AllSalePrice)}. ¡No dejes pasar esta oferta
           increíble y adquiere productos de calidad a precios imbatibles!
-        </p>
+        </p> */}
       </div>
       <Products />
-      <Faq />
+      {/* <Faq /> */}
     </main>
   );
 }
